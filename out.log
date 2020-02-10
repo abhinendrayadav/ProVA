@@ -1,0 +1,3 @@
+2020-02-07 00:10:08,849 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-07 00:10:13,413 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2020-02-07 00:10:14,844 [INFO ]  Retrieval intent parameter was left to its default value. This response selector will be trainedon training examples combining all retrieval intents.
