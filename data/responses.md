@@ -1,10 +1,57 @@
 ## employee_orientation
-* policy/orientation
+* gen_policy/emp_orientation
   - orientation will provide you with information regarding the performance requirements, policies, benefits and other necessary information to acquaint you with Prolifics
 
 ## background
-* policy/bgv
+* gen_policy/bgv_policy
   - Any candidate who provides misleading, erroneous or willfully deceptive information to the company on the documentation/ information submitted to HR like resume, employment forms, and BGV forms will be eliminated from further consideration for employment with Prolifics with immediate effect
+
+## id badges
+* gen_policy/id_badges
+  - Identification Badges with your name and photo will be issued to you as you begin employment. You are required to wear your identification badge, in clear view, at all times while in office.
+
+## records
+* gen_policy/records
+  - Prolifics will maintain employee personal records, as required by law and deemed essential for efficient operations. 
+
+## buddy policy
+* gen_policy/buddy
+  - The Buddy will Introduce the new joiner to co-workers and other key people in the department/unit. Coordinate with immediate supervisor to ensure briefing is done on Vision, Mission, achievement of Organization, work procedures, ongoing projects etc. Login to PEP portal-> Policy -> Employee Handbook to know more.
+
+## official language
+* gen_policy/off_lang
+  -  English is the official language used for conducting our business and all staff are requested not to converse in any regional/ foreign languages during the work hours.
+
+## ofiice timings
+* gen_policy/ofc_timing
+  - We have four shifts and timing from Monday to Friday:
+    General Shift 09.00 AM to 06.00 PM 
+    Shift A 06:00 AM to 03:00 PM 
+    Shift B 02.00 PM to 11.00 PM 
+    Shift C 10.00 PM to 07.00 AM 
+
+## attendace
+* gen_policy/attendance
+  - Employees must record their in-time and out-time by using their biometrics readers and also sign the Registers or any other appropriate system deployed by Prolifics at their respective locations. 
+
+## dress code
+* gen_policy/dcode
+  - Monday to Friday: Business/Smart casuals 
+
+## hr helpdesk
+* gen_policy/hr_helpdesk
+  - HR Help Desk serves as a single point of contact between the employee and the HR department for listening and resolving employee related issues like – Leaves & Attendance – Reimbursement Processing – Compensation & Benefits including Statutory Benefits – Loans & Advances – Employee Support 
+
+## probation policy
+* gen_policy/probation_policy
+  - For new Joiners, will be probation for a period of 3 months, extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure.  
+  For any disciplinary action, employees will be on probation for a specific timeline agreed by supervisor and HR with defined terms but not exceeding 2 months 
+  For Employee Promotions, whenever any employee promoted to new grade will be on probation period for 3 months extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure
+
+## internship policy
+* gen_policy/internship_policy
+  - To provide an opportunity to college students and out of college young professionals (not in any job) in the areas of technology, processes and standards to familiarize themselves about different departments in the company. 
+  Interns will get to work on dynamic projects ranging from application development to business consulting in practices. 
 
 ## my courses
 * lndFAQ/my_courses
@@ -35,14 +82,6 @@
 * lndFAQ/promotion_criteria
   - A. Each employee needs to be compliant with all learning requirements as specified by Prolifics policies, client mandates and Government laws. Login to PEP portal-> Policy -> Employee Handbook to know more.
 
-## maternity leave
-* lndFAQ/maternity
-  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the twelve months immediately preceding the date of her expected delivery. Login to PEP portal-> Policy -> Employee Handbook to know more.
-
-## buddy policy
-* lndFAQ/buddy
-  - The Buddy will Introduce the new joiner to co-workers and other key people in the department/unit. Coordinate with immediate supervisor to ensure briefing is done on Vision, Mission, achievement of Organization, work procedures, ongoing projects etc. Login to PEP portal-> Policy -> Employee Handbook to know more.
-
 ## mobile usage
 * common_property/mobile_usage
   - Employees may only use their mobile phones to check and/or make “necessary” calls; this must be in an area that does not interfere with others work.
@@ -61,7 +100,7 @@
 
 ## email policy
 * common_property/email_policy
-  - email policy
+  - The users will exercise extreme caution while sending e-mails through the public networks. Guidelines will be issued by IT team to educate users on the secure and acceptable use of the corporate e-mail account. 
 
 ## remote email policy
 * common_property/remote_email_policy
@@ -93,7 +132,11 @@
 
 ## lwp and lop
 * holiday_leaves/lwp_lop
-  - If an employee requires leave but does not have sufficient leave balance, his/her first level manager may sanction LWP up to fourteen day; 
+  - If an employee requires leave but does not have sufficient leave balance, his/her first level manager may sanction LWP up to fourteen days 
+
+## maternity leave
+* holiday_leaves/maternity
+  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the twelve months immediately preceding the date of her expected delivery. Login to PEP portal-> Policy -> Employee Handbook to know more.
 
 ## mpt
 * holiday_leaves/mtp
@@ -139,13 +182,13 @@
 * performance/pip
   - All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Employees will be provided an opportunity to sign and add their own comments
 
-## RACE awards
+## race awards scenario
 * performance/race
-  - The selection of best performer shall be left to the sole discretion of the Unit/Division Head/Head HR
+  - To recognize and appreciate the achievers and high performers within a unit or functional division on a periodic basis such as a quarterly town-hall / get-together. 
 
 ## Provident Funds and ESI
 * benefits/pf_esi
-  -Prolifics is a member of the Regional Provident Fund as required by the Indian law. Please refer the below link for more details. https //www.epfindia.gov.in/site_en/
+  - Prolifics is a member of the Regional Provident Fund as required by the Indian law. Please refer the below link for more details. [here](https //www.epfindia.gov.in/site_en/)
 
 ##  Gratuity
 * benefits/gratuity
