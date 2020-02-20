@@ -6,12 +6,16 @@
 ## intent:holiday_leaves/leave_procedure
 - leave procedure
 - apply leave
-
+- leaves
 ## intent:holiday_leaves/lwp_lop
 - lwp
 - lop
 - loss of pay
 - leave without pay
+
+## intent:holiday_leaves/maternity
+- maternity
+- mom
 
  ## intent:holiday_leaves/mtp
 - mtp

@@ -23,6 +23,7 @@ intents:
 - intellect_prop
 - deputation
 - travel
+- policy
 - env_protection
 - rule_of_conduct
 - whistleblower
@@ -32,10 +33,63 @@ intents:
 - lndFAQ/progression_course
 - lndFAQ/promotion_criteria
 - lndFAQ/learning_hours
-- lndFAQ/maternity
-- lndFAQ/buddy
 - lndFAQ/IDP
 - lndFAQ/my_courses
+- seperation
+- common_property
+- equal_opportunity
+- voilance
+- benefits
+- holiday_leaves
+- performance
+- common_property/access_sw
+- common_property/remote_email_policy
+- holiday_leaves/lwp_lop
+- holiday_leaves/maternity
+- holiday_leaves/paternity_leave
+- common_property/disclaimer
+- common_property/email_encryption
+- benefits/extra_work
+- voilance/drugs
+- common_property/internet_usage
+- common_property/mobile_usage
+- voilance/complaint_review
+- performance/variable
+- holiday_leaves/public_holidays
+- common_property/email_policy
+- seperation/emp_separation
+- performance/job
+- performance/pip
+- performance/race
+- common_property/internet_based_emails
+- benefits/gratuity
+- seperation/resign
+- benefits/meals
+- holiday_leaves/leave_procedure
+- seperation/exit_interview
+- holiday_leaves/mtp
+- benefits/pf_esi
+- voilance/code_of_conduct
+- voilance/harrasment_policy
+- holiday_leaves/adoption_leave
+- common_property/email_monitoring
+- seperation/gardening
+- seperation/disciplinary
+- benefits/mediclaim
+- performance/appraisal
+- common_property/access_mails
+- gen_policy/ofc_timing
+- gen_policy/probation_policy
+- gen_policy/bgv_policy
+- gen_policy/hr_helpdesk
+- gen_policy/emp_orientation
+- gen_policy/id_badges
+- gen_policy/off_lang
+- gen_policy/records
+- gen_policy/buddy
+- gen_policy/internship_policy
+- gen_policy/attendance
+- gen_policy/dcode
 entities:
 - ticket
 templates:
@@ -52,12 +106,10 @@ templates:
     buttons:
     - title: Restart Conversation
       payload: /restart
-  utter_sad_reason:
-  - text: Please tell me what makes you sad today
   utter_thanks_reply:
   - text: My pleasure!
   utter_goodbye:
-  - text: Happy to help! Goodbye.  
+  - text: Happy to help! Goodbye.
   utter_acc_lock:
   - text: Please drop an email to ProU@prolifics.com They will unlock the account
       and respond to you shortly. Click the button below to send an email.
@@ -76,36 +128,56 @@ templates:
       Click the button below to send an email.
   utter_non_happy:
   - text: I am sorry, I am not sure how to help you with this.
-  utter_thanks_ask:
-  - text: Thank you once again. How can I help you today?
   utter_ask_more:
   - text: What else can I help you with?
   utter_emp_refer:
-  - text: The purpose of this policy is to recognize and reward employee's contribution in attracting new talent to the organization.
+  - text: The purpose of this policy is to recognize and reward employee's contribution
+      in attracting new talent to the organization.
   utter_communication:
-  - text: Communication between manager and employee should be ongoing and address concerns, duties and expectations. Managers help employees achieve their professional goals by providing career development and coaching.
+  - text: Communication between manager and employee should be ongoing and address
+      concerns, duties and expectations. Managers help employees achieve their professional
+      goals by providing career development and coaching.
   utter_confidentiality:
-  - text: are required to maintain such information in strict confidence. This policy benefits you, as an employee, by protecting the interests of the Company in the safeguard of confidential, unique and valuable information from competitors or other
+  - text: You are required to maintain such information in strict confidence. This
+      policy benefits you, as an employee, by protecting the interests of the Company
+      in the safeguard of confidential, unique and valuable information from competitors
+      or other
   utter_intellect_prop:
-  - text: Prolifics obligates all employees to respect, regard and protect the Intellectual Property as utmost Confidential Information at the highest end. The Employees must understand that this Intellectual Property as invaluable, which has been developed over many man years of efforts by Prolifics
+  - text: Prolifics obligates all employees to respect, regard and protect the Intellectual
+      Property as utmost Confidential Information at the highest end. The Employees
+      must understand that this Intellectual Property as invaluable, which has been
+      developed over many man years of efforts by Prolifics
   utter_deputation:
-  - text: The purpose of deputation policy is to define conditions under which any official travel is considered as Deputation and fix the monthly entitlements
+  - text: The purpose of deputation policy is to define conditions under which any
+      official travel is considered as Deputation and fix the monthly entitlements
   utter_travel:
-  - text: The policy outlines as well describe in detail the policy around expense reimbursement for travelling company personnel in the following categories
-  - text: Domestic 
-  - text: International
-  - text: Local conveyance while on travel 
+  - text: The policy outlines as well describe in detail the policy around expense
+      reimbursement for travelling company personnel in the following categories 1-
+      domestic 2- international 3- local coveyance while on travel
   utter_env_protection:
-  - text: Prolifics will also comply with any additional environmental requirements specific to the products or services that the Company is providing to customers as called for in design specifications and contract documents
+  - text: Prolifics will also comply with any additional environmental requirements
+      specific to the products or services that the Company is providing to customers
+      as called for in design specifications and contract documents
+  utter_policy:
+  - text: Please spcify policy you are looking for.
   utter_rule_of_conduct:
-  - text: Confidential Information- Improper disclosure of Prolifics’ confidential information will damage the Company and its prospects; improper disclosure of client's confidential information will irreparably damage Prolifics’ reputation and may subject the Company to liability for damages. 
-  - text: Conflict of Interest- All employees are required to read the Company’s Conflict of Interest policy. Depending upon your role, you may be required to complete a Conflict of Interest Form which obligates you to act in a manner which promotes the best interests of the Company, and to avoid all actual, potential or perceived conflicts of interest. 
+  - text: Confidential Information- Improper disclosure of Prolifics’ confidential
+      information will damage the Company and its prospects; improper disclosure of
+      client's confidential information will irreparably damage Prolifics’ reputation
+      and may subject the Company to liability for damages. Conflict of Interest-
+      All employees are required to read the Company’s Conflict of Interest policy.
+      Depending upon your role, you may be required to complete a Conflict of Interest
+      Form which obligates you to act in a manner which promotes the best interests
+      of the Company, and to avoid all actual, potential or perceived conflicts of
+      interest.
   utter_whistleblower:
-  - text: A whistleblower as defined by this policy is an employee of Prolifics or its affiliates who reports an activity that he/she considers to be illegal or dishonest to one or more of the parties specified in this Policy. 
+  - text: A whistleblower as defined by this policy is an employee of Prolifics or
+      its affiliates who reports an activity that he/she considers to be illegal or
+      dishonest to one or more of the parties specified in this Policy.
   utter_contract_emp:
-  - text: All contract employees should follow the organization policies and procedures mentioned in the Employee Handbook
-  - text: Joining and exit process should be same as full time employees.
-
+  - text: All contract employees should follow the organization policies and procedures
+      mentioned in the Employee Handbook Joining and exit process should be same as
+      full time employees.
 actions:
 - respond_lndFAQ
 - respond_common_property
@@ -148,3 +220,4 @@ actions:
 - utter_rule_of_conduct
 - utter_whistleblower
 - utter_contract_emp
+- utter_policy

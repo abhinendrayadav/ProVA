@@ -1,3 +1,273 @@
 2020-02-07 00:10:08,849 [INFO ]  Starting Rasa server on http://localhost:5005
 2020-02-07 00:10:13,413 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
 2020-02-07 00:10:14,844 [INFO ]  Retrieval intent parameter was left to its default value. This response selector will be trainedon training examples combining all retrieval intents.
+2020-02-12 20:10:35,980 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-12 20:10:39,768 [INFO ]  Compute Engine Metadata server unavailable onattempt 1 of 3
+2020-02-12 20:10:42,775 [INFO ]  Compute Engine Metadata server unavailable onattempt 2 of 3
+2020-02-12 20:10:45,782 [INFO ]  Compute Engine Metadata server unavailable onattempt 3 of 3
+2020-02-12 20:10:45,788 [ERROR]  Could not load model due to Could not automatically determine credentials. Please set GOOGLE_APPLICATION_CREDENTIALS or explicitly create credentials and re-run the application. For more information, please see https://cloud.google.com/docs/authentication/getting-started.
+2020-02-12 20:10:45,805 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 171, in __init__
+    self.storage_client = storage.Client()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 96, in __init__
+    project=project, credentials=credentials, _http=_http
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\client.py", line 226, in __init__
+    _ClientProjectMixin.__init__(self, project=project)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\client.py", line 178, in __init__
+    project = self._determine_default(project)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\client.py", line 193, in _determine_default
+    return _determine_default_project(project)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_helpers.py", line 186, in _determine_default_project
+    _, project = google.auth.default()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\auth\_default.py", line 321, in default
+    raise exceptions.DefaultCredentialsError(_HELP_MESSAGE)
+google.auth.exceptions.DefaultCredentialsError: Could not automatically determine credentials. Please set GOOGLE_APPLICATION_CREDENTIALS or explicitly create credentials and re-run the application. For more information, please see https://cloud.google.com/docs/authentication/getting-started
+2020-02-12 22:08:38,317 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-12 22:08:39,119 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-12 22:08:39,121 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name
+2020-02-12 22:27:07,309 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-12 22:27:08,226 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-12 22:27:08,228 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name
+2020-02-12 22:27:35,990 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-12 22:27:36,799 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-12 22:27:36,806 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name
+2020-02-12 23:03:11,801 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-12 23:03:12,720 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-12 23:03:12,722 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name
+2020-02-13 21:39:10,130 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2020-02-13 21:39:10,137 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-13 21:39:10,139 [DEBUG]  Using the default number of Sanic workers (1).
+2020-02-13 21:39:10,141 [INFO ]  Enabling coroutine debugging. Loop id 1576855466952.
+2020-02-13 21:39:10,142 [DEBUG]  Could not load interpreter from '20200210-233452.tar.gz'.
+2020-02-13 21:39:10,143 [DEBUG]  Connected to InMemoryTrackerStore.
+2020-02-13 21:39:10,143 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2020-02-13 21:39:10,438 [DEBUG]  Making request: POST https://oauth2.googleapis.com/token
+2020-02-13 21:39:11,241 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-13 21:39:11,252 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name
+2020-02-13 21:42:42,449 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2020-02-13 21:42:42,481 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-02-13 21:42:42,483 [DEBUG]  Using the default number of Sanic workers (1).
+2020-02-13 21:42:42,485 [INFO ]  Enabling coroutine debugging. Loop id 1840524948616.
+2020-02-13 21:42:42,487 [DEBUG]  Could not load interpreter from '20200210-233452.tar.gz'.
+2020-02-13 21:42:42,489 [DEBUG]  Connected to InMemoryTrackerStore.
+2020-02-13 21:42:42,491 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2020-02-13 21:42:42,687 [DEBUG]  Making request: POST https://oauth2.googleapis.com/token
+2020-02-13 21:42:43,457 [ERROR]  Could not load model due to 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name.
+2020-02-13 21:42:43,467 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 1133, in run
+    serve(**server_settings)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 857, in serve
+    trigger_events(before_start, loop)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\sanic\server.py", line 634, in trigger_events
+    loop.run_until_complete(result)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\asyncio\base_events.py", line 579, in run_until_complete
+    return future.result()
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\run.py", line 250, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 260, in load_agent
+    model_server=model_server,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\core\agent.py", line 948, in load_from_remote_storage
+    persistor = get_persistor(remote_storage)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 22, in get_persistor
+    return GCSPersistor(os.environ.get("BUCKET_NAME"))
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 172, in __init__
+    self._ensure_bucket_exists(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\rasa\nlu\persistor.py", line 193, in _ensure_bucket_exists
+    self.storage_client.create_bucket(bucket_name)
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\storage\client.py", line 436, in create_bucket
+    _target_object=bucket,
+  File "c:\users\abhinendra\appdata\local\programs\python\python37\lib\site-packages\google\cloud\_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.BadRequest: 400 POST https://storage.googleapis.com/storage/v1/b?project=rasa-x-267506: Empty bucket name

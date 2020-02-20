@@ -5,9 +5,9 @@ pipeline:
 - name: CRFEntityExtractor
 - name: EntitySynonymMapper
 - name: CountVectorsFeaturizer
-- name: "EmbeddingIntentClassifier"
+- name: EmbeddingIntentClassifier
   intent_tokenization_flag: true
-  intent_split_symbol: "+"
+  intent_split_symbol: +
 - name: ResponseSelector
 policies:
 - name: MemoizationPolicy

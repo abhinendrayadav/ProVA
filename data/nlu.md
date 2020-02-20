@@ -151,3 +151,6 @@
 ## intent:contract_emp
 - contract
 - on contract employee
+
+## intent:policy
+- policy

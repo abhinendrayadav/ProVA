@@ -50,21 +50,7 @@
 ## greet with user saying happy and neutral
 
 * greet
-    - utter_greet
-    - utter_ask_more
-    
-
-## greet with user saying sad and giving reason
-
-* greet
-    - utter_greet
-    - utter_ask_more
-
-## mood sad
-* affirm
-    - utter_sad_reason
-    - action_listen
-    - utter_thanks_ask
+    - utter_greet    
 
 ## thanks 
 * thanks
@@ -77,9 +63,8 @@
  - action_send_it_email
  - utter_ask_more
 
-## thanks and bye 
-* thanks+goodbye
- - utter_thanks_reply
+## bye 
+* goodbye
  - utter_goodbye
 
 ## common_property
@@ -172,3 +157,7 @@
  - respond_gen_policy
  - utter_ask_more
  
+
+## policy in genral
+* policy
+ - utter_policy
