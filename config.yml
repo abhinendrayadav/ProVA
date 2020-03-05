@@ -1,0 +1,21 @@
+language: en
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: CountVectorsFeaturizer
+- name: EmbeddingIntentClassifier
+  intent_tokenization_flag: true
+  intent_split_symbol: +
+- name: ResponseSelector
+policies:
+- name: MemoizationPolicy
+  max_history: 1
+- name: MappingPolicy
+- name: EmbeddingPolicy
+- name: FormPolicy
+- name: FallbackPolicy
+  nlu_threshold: 0.2
+  core_threshold: 0.1
+  fallback_action_name: action_default_fallback
