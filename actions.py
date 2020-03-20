@@ -10,11 +10,11 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import ReminderScheduled
 from datetime import datetime, timedelta
-import mysql.connector
+# import mysql.connector
 
-mydb = mysql.connector.connect(host="localhost", user="root", passwd="root")
-mycursor = mydb.cursor()
-mycursor.execute("use prova")
+# mydb = mysql.connector.connect(host="localhost", user="root", passwd="root")
+# mycursor = mydb.cursor()
+# mycursor.execute("use prova")
 
 
 class ActionDefaultFallback(Action):
@@ -68,11 +68,11 @@ class ActionAccountLock(Action):
             tracker: Tracker,
             domain: Dict[Text,Any]) ->List[Dict[Text,Any]]:
 
-            mycursor.execute("select enum from prova where code='E1'")
-            result = mycursor.fetchone()
-            for i in result:
-                enum = i
-            sen = enum.replace(" ", "%20")
+            # mycursor.execute("select enum from prova where code='E1'")
+            # result = mycursor.fetchone()
+            # for i in result:
+            #     enum = i
+            # sen = enum.replace(" ", "%20")
             dispatcher.utter_message("<a href=mailto:ProU@prolifics.com?subject=LMS%20Account%20Lock&body={}>Send Mail</a>".format(sen))
             # class ReminderScheduled(action_name, trigger_date_time, name=None, kill_on_user_message=True, timestamp=None)
             
@@ -87,11 +87,11 @@ class ActionStatus(Action):
             tracker: Tracker,
             domain: Dict[Text,Any]) ->List[Dict[Text,Any]]:
 
-            mycursor.execute("select enum from prova where code='E2'")
-            result = mycursor.fetchone()
-            for i in result:
-                enum = i
-            sen = enum.replace(" ", "%20")
+            # mycursor.execute("select enum from prova where code='E2'")
+            # result = mycursor.fetchone()
+            # for i in result:
+            #     enum = i
+            # sen = enum.replace(" ", "%20")
 
             dispatcher.utter_message("<a href=mailto:ProU@prolifics.com?subject=Pending%20Courses&body={}>Send Mail</a>".format(sen))
 

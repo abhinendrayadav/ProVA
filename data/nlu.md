@@ -154,3 +154,15 @@
 
 ## intent:policy
 - policy
+
+## intent:common_property_intent
+- company property
+- property
+
+## intent:company_vision
+- company vision
+- vision
+
+# intent:company_mission
+- company mission
+- mission

@@ -2,11 +2,18 @@
 - public holidays
 - holidays
 - holiday
+- leave
+- leaves
+- calendar
+
+## intent:holiday_leaves/leave_policy
+- leave policy
 
 ## intent:holiday_leaves/leave_procedure
 - leave procedure
 - apply leave
-- leaves
+- apply leaves
+
 ## intent:holiday_leaves/lwp_lop
 - lwp
 - lop
@@ -15,11 +22,14 @@
 
 ## intent:holiday_leaves/maternity
 - maternity
-- mom
+- maternity leave
+- maternity leave policy
+- ML
 
  ## intent:holiday_leaves/mtp
 - mtp
 - medical termination of pregnancy
+- termination of pregnancy
 
 ## intent:holiday_leaves/adoption_leave
 - adoption

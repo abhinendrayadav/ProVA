@@ -1,18 +1,18 @@
 ## employee_orientation
 * gen_policy/emp_orientation
-  - orientation will provide you with information regarding the performance requirements, policies, benefits and other necessary information to acquaint you with Prolifics
+  - Orientation will provide you with information regarding the performance requirements, policies, benefits and other necessary information to acquaint you with Prolifics
 
 ## background
 * gen_policy/bgv_policy
-  - Any candidate who provides misleading, erroneous or willfully deceptive information to the company on the documentation/ information submitted to HR like resume, employment forms, and BGV forms will be eliminated from further consideration for employment with Prolifics with immediate effect
+  - Any candidate who provides misleading, erroneous or willfully deceptive information to the company on the documentation/ information submitted to HR like resume, employment forms, and BGV forms will be eliminated from further consideration for employment with Prolifics with immediate effect. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## id badges
 * gen_policy/id_badges
-  - Identification Badges with your name and photo will be issued to you as you begin employment. You are required to wear your identification badge, in clear view, at all times while in office.
+  - All employees are required to wear your identification badge, in clear view, at all times while in office. If an employee loses the identification badge Rs.250/- needs to be paid for getting a new one
 
 ## records
 * gen_policy/records
-  - Prolifics will maintain employee personal records, as required by law and deemed essential for efficient operations. 
+  - Prolifics will maintain employee personal records, as required by law and deemed essential for efficient operations. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## buddy policy
 * gen_policy/buddy
@@ -20,38 +20,39 @@
 
 ## official language
 * gen_policy/off_lang
-  -  English is the official language used for conducting our business and all staff are requested not to converse in any regional/ foreign languages during the work hours.
+  - English is the official language used for conducting our business and all staff are requested not to converse in any regional/ foreign languages during the work hours
 
 ## ofiice timings
-* gen_policy/ofc_timing
-  - We have four shifts and timing from Monday to Friday:
-    General Shift 09.00 AM to 06.00 PM 
-    Shift A 06:00 AM to 03:00 PM 
-    Shift B 02.00 PM to 11.00 PM 
-    Shift C 10.00 PM to 07.00 AM 
+* gen_policy/office_timing
+  - 9:00 am to 6:00 pm. Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window
+
+## shift allowance
+* gen_policy/shift_allowance
+  - We have four shifts and timing from Monday to Friday. Shift allowance will be paid on pro-rata basis covering the transport and dinner/lunch/breakfast. Please reach to your Project Manager or Supervisor for further details
+
+## work hours
+* gen_policy/work_hours
+  - 9 hours per day. Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window
 
 ## attendace
 * gen_policy/attendance
-  - Employees must record their in-time and out-time by using their biometrics readers and also sign the Registers or any other appropriate system deployed by Prolifics at their respective locations. 
+  - Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## dress code
-* gen_policy/dcode
-  - Monday to Friday: Business/Smart casuals 
+* gen_policy/dress_code
+  - As an employee of Prolifics, we expect you to present a clean and professional appearance when you represent us, whether in, or outside the office. Management, sales personnel and those employees, who come in contact with our customers, vendors, investors, etc., are expected to dress in accepted corporate tradition. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## hr helpdesk
 * gen_policy/hr_helpdesk
-  - HR Help Desk serves as a single point of contact between the employee and the HR department for listening and resolving employee related issues like – Leaves & Attendance – Reimbursement Processing – Compensation & Benefits including Statutory Benefits – Loans & Advances – Employee Support 
+  - HR Help Desk serves as a single point of contact between the employee and the HR department for listening and resolving employee related issues like – Leaves & Attendance, Reimbursement Processing, Compensation & Benefits including Statutory Benefits, Loans & Advances and Employee Support. You just need to raise a ticket to Indiahrhelpdesk@prolifics.com and get your queries answered on time. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## probation policy
 * gen_policy/probation_policy
-  - For new Joiners, will be probation for a period of 3 months, extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure.  
-  For any disciplinary action, employees will be on probation for a specific timeline agreed by supervisor and HR with defined terms but not exceeding 2 months 
-  For Employee Promotions, whenever any employee promoted to new grade will be on probation period for 3 months extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure
+  - For new Joiners, there will be probation for a period of 3 months, extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## internship policy
 * gen_policy/internship_policy
-  - To provide an opportunity to college students and out of college young professionals (not in any job) in the areas of technology, processes and standards to familiarize themselves about different departments in the company. 
-  Interns will get to work on dynamic projects ranging from application development to business consulting in practices. 
+  - Prolifics provides an opportunity to college students and out of college young professionals (not in any job) in the areas of technology, processes and standards to familiarize themselves about different departments in the company. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## my courses
 * lndFAQ/my_courses
@@ -84,15 +85,15 @@
 
 ## mobile usage
 * common_property/mobile_usage
-  - Employees may only use their mobile phones to check and/or make “necessary” calls; this must be in an area that does not interfere with others work.
+  - During the office hours ensure that your mobile phone is set to “Silent / Vibrate mode”. When attending a conference or meetings do not attend to mobile phone calls / chat. Employees may only use their mobile phones to check and/or make “necessary” (Job Related OR any URGENT information or instructions that need to be conveyed) calls; this must be in an area that does not interfere with others work. The camera function must not be used in the office premises as it may breach Privacy Act rules. Please keep your personal and professional conversation to be only in English at all the times on the floor
 
 ## access mails
-* common_property/access_mails
-  - Voice mail, computers, computer networks, electronic mail, offices, desks and lockers are provided to employees of Prolifics for official purposes only and are the property of the Company. Supervisors should be provided with all codes or keys necessary to easily access voice mail, computers, and all computer files, electronic mail, desks, offices and lockers. 
+* common_property/desk_locker_computer
+  - Locking a supervisor out of any business appliance is grounds for disciplinary action. Locking any authorized Prolifics representative out of such appliances and/or erasing official files from computers, especially at termination of employment, is grounds for prosecution
 
 ## internet usage
 * common_property/internet_usage
-  - Internet use, on Company time, is authorized to conduct Company business only. Internet use brings the possibility of breaches to the security of confidential Company information.
+  - Internet use, on Company time, is authorized to conduct Company business only. Internet use brings the possibility of breaches to the security of confidential Company information. Internet use also creates the possibility of contamination to our system via viruses or spyware. Spyware allows unauthorized people, outside the Company, potential access to Company passwords and other confidential information
 
 ## access softwares
 * common_property/access_sw
@@ -100,7 +101,7 @@
 
 ## email policy
 * common_property/email_policy
-  - The users will exercise extreme caution while sending e-mails through the public networks. Guidelines will be issued by IT team to educate users on the secure and acceptable use of the corporate e-mail account. 
+  - Email is to be used for Company business only. Company’s confidential information must not be shared outside of the Company, without proper authorization, at any time. You are also not to conduct personal business using the Company computer or email. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## remote email policy
 * common_property/remote_email_policy
@@ -112,7 +113,7 @@
 
 ## email encryption
 * common_property/email_encryption
-  - Users should not send any confidential information through e-mail unless it is encrypted or the attached document is protected from unauthorized access by means of a password.
+  - Users should not send any confidential information through e-mail unless it is encrypted or the attached document is protected from unauthorized access by means of a password. Approval should be taken from the authorized person to send confidential information through encryption system
 
 ## email monioring
 * common_property/email_monitoring
@@ -126,45 +127,53 @@
 * holiday_leaves/public_holidays
   - Prolifics observes “9” national/festival holidays every calendar year. Please refer the Complete List of Holidays accessible at HR Portal.Employees working in client locations would be following the client holiday calendar.
 
+## holiday_leaves/leave_policy
+* holiday_leaves/leave_policy
+  - Leave Policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, and on the payroll of Prolifics, Offshore. Login to PEP portal-> Policy -> Employee Handbook to know more
+
 ## leave procedure
 * holiday_leaves/leave_procedure
-  - You should make a leave request on Leave Management System on HR Portal only.
+  - You should make a leave request on Leave Management System on HR Portal only. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## lwp and lop
 * holiday_leaves/lwp_lop
-  - If an employee requires leave but does not have sufficient leave balance, his/her first level manager may sanction LWP up to fourteen days 
+  - If an employee requires leave but does not have sufficient leave balance, his/her first level manager may sanction LWP up to fourteen days. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## maternity leave
 * holiday_leaves/maternity
-  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the twelve months immediately preceding the date of her expected delivery. Login to PEP portal-> Policy -> Employee Handbook to know more.
+  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the 12 \months immediately preceding the date of her expected delivery. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## mpt
 * holiday_leaves/mtp
-  - “MTP” is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the twelve months immediately preceding the date of her expected delivery. 
+  - “MTP” is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the twelve months immediately preceding the date of her expected delivery. An employee can avail paid leave for 6 weeks/42 Consecutive days from the date of miscarriage
 
 ## adoption leave
 * holiday_leaves/adoption_leave
-  - All employees of Prolifics who have legally adopted a child and having worked for a minimum of 80 days in the preceding 12-month period will be eligible for Special Leave. 
+  - All employees of Prolifics who have legally adopted a child and having worked for a minimum of 80 days in the preceding 12-month period will be eligible for Special Leave. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## paternity leave
 * holiday_leaves/paternity_leave
-  - Employee will be eligible for Paternity Leave of 3 days during expected or actual delivery period of the baby.
+  - Employee will be eligible for Paternity Leave of 3 days during expected or actual delivery period of the baby. It has to be availed within 10 days of the birth of the child and in one stretch without any break
+
+## violence/workplace_violence
+* violence/workplace_violence
+  - If you would like to report a Violent incident, please reach out to your Manager or send an email to hr.bp@prolifics.com
 
 ## harrasment policy
-* voilance/harrasment_policy
-  - The three basic criteria established by the guidelines to determine whether an act, including "unwelcome sexual advances, requests for sexual favors and other verbal and physical conduct of a sexual nature" constitutes unlawful sexual harassment in violation of Indian Laws
+* violence/harrasment_policy
+  - Any employee who feels they are being sexually harassed, directly or indirectly, may submit a complaint of the alleged incident to their manager, HR, Legal, OR any Executive of the company, preferably in writing within 10 days of occurrence of incident. Login to PEP portal-> Policy -> Employee Handbook to know more
 
 ## complaint review
-* voilance/complaint_review
-  - Employees should file written complaints with Human Resources as soon as possible after the events that give rise to the employee’s work-related concerns. The written complaint should set forth in detail the reasons for the employee’s complaint. 
+* violence/complaint_review
+  - Employees should file written complaints with Human Resources as soon as possible after the events that give rise to the employee’s work-related concerns. The written complaint should set forth in detail the reasons for the employee’s complaint
 
 ## Code of ethical conduct
-* voilance/code_of_conduct
-  - An internal enquiry will be held and HR will investigate the matter, meeting separately with the employee and with others who may have knowledge of the facts
+* violence/code_of_conduct
+  - Employees may be disciplined for misconduct, an internal enquiry will be held and HR will investigate the matter, meeting separately with the employee and with others who may have knowledge of the facts
 
 ## Alchohol/Drugs consumption and smoking
-* voilance/drugs
-  - Prolifics operates a no-smoking policy in the workplace. Smoking is not permitted anywhere in the building including the staircases and fire escapes.  
+* violence/drugs
+  - Prolifics operates a no-smoking policy in the workplace. Smoking is not permitted anywhere in the building including the staircases and fire escapes. Further, Prolifics strictly prohibits any employee from reporting or being at work under the influence of drugs (unless medically prescribed) or alcohol
 
 ## Job performance
 * performance/job

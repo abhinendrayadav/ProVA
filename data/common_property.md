@@ -4,11 +4,8 @@
 - cell
 - calls
 
-## intent:common_property/access_mails
-- voice mails
-- lockers
-- computer networks
-- computers
+## intent:common_property/desk_locker_computer
+- supervisor access
 
 ## intent:common_property/internet_usage
 - internet usage
@@ -18,12 +15,14 @@
 - software access procedure
 - sw access
 - software
+- installation procedure
+- software installation
+- install software
 
 ## intent:common_property/email_policy
 - email
 - electronic mail
 - mail
-- emails
 - email policy
 
 ## intent:common_property/remote_email_policy
@@ -33,9 +32,7 @@
 
 ## intent:common_property/internet_based_emails
 - gmail account
-- gmail
 - ymail
-- hotmail
 - yahoo mail
 
 ## intent:common_property/email_encryption
@@ -45,8 +42,9 @@
 - secure
 
 ## intent:common_property/email_monitoring
+- email monitoring
 - monitoring
 - monitor
 
 ## intent:common_property/disclaimer
-- disclaimer
+- email disclaimer

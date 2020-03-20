@@ -77,9 +77,9 @@
   - respond_holiday_leaves
   - utter_ask_more
 
-## voilance
-* voilance
- - respond_voilance
+## violence
+* violence
+ - respond_violence
  - utter_ask_more
 
 ## equal_opportunity
@@ -161,3 +161,13 @@
 ## policy in genral
 * policy
  - utter_policy
+ 
+## company vision
+* company_vision
+ - utter_company_vision
+ - utter_ask_more
+
+## company mission
+* company_mission
+ - utter_company_mission
+ - utter_ask_more

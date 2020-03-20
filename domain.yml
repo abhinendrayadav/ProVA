@@ -38,58 +38,12 @@ intents:
 - seperation
 - common_property
 - equal_opportunity
-- voilance
+- violence
 - benefits
 - holiday_leaves
 - performance
-- common_property/access_sw
-- common_property/remote_email_policy
-- holiday_leaves/lwp_lop
-- holiday_leaves/maternity
-- holiday_leaves/paternity_leave
-- common_property/disclaimer
-- common_property/email_encryption
-- benefits/extra_work
-- voilance/drugs
-- common_property/internet_usage
-- common_property/mobile_usage
-- voilance/complaint_review
-- performance/variable
-- holiday_leaves/public_holidays
-- common_property/email_policy
-- seperation/emp_separation
-- performance/job
-- performance/pip
-- performance/race
-- common_property/internet_based_emails
-- benefits/gratuity
-- seperation/resign
-- benefits/meals
-- holiday_leaves/leave_procedure
-- seperation/exit_interview
-- holiday_leaves/mtp
-- benefits/pf_esi
-- voilance/code_of_conduct
-- voilance/harrasment_policy
-- holiday_leaves/adoption_leave
-- common_property/email_monitoring
-- seperation/gardening
-- seperation/disciplinary
-- benefits/mediclaim
-- performance/appraisal
-- common_property/access_mails
-- gen_policy/ofc_timing
-- gen_policy/probation_policy
-- gen_policy/bgv_policy
-- gen_policy/hr_helpdesk
-- gen_policy/emp_orientation
-- gen_policy/id_badges
-- gen_policy/off_lang
-- gen_policy/records
-- gen_policy/buddy
-- gen_policy/internship_policy
-- gen_policy/attendance
-- gen_policy/dcode
+- company_vision
+- company_mission
 entities:
 - ticket
 templates:
@@ -100,7 +54,7 @@ templates:
   utter_which_ticket:
   - text: Whom you want me to raise the ticket to?
   utter_click_button:
-  - text: Click on the button below to send an email.
+  - text: Click on the button below to send an email
   utter_curse_response:
   - text: I dont appreciate such language. How can i help you?
     buttons:
@@ -109,23 +63,23 @@ templates:
   utter_thanks_reply:
   - text: My pleasure!
   utter_goodbye:
-  - text: Happy to help! Goodbye.
+  - text: Happy to help! Goodbye
   utter_acc_lock:
   - text: Please drop an email to ProU@prolifics.com They will unlock the account
-      and respond to you shortly. Click the button below to send an email.
+      and respond to you shortly. Click the button below to send an email
   utter_status:
   - text: Please mail to prou@prolifics.com The team will validate and reply to you.
-      Click the button below to send an email.
+      Click the button below to send an email
   utter_ext_training:
   - text: After acquiring approval for the cost of training from the practice director,
       raise a request to prou@prolifics.com. Please refer the learning engagement
       policy document on PeP to know more. All external trainings and certifications
       should be updated in the ELMS within 1 month of completion. Click the button
-      below to send an email.
+      below to send an email
   utter_thinkhr:
   - text: eLMS automatically updates ThinkHR courses every 48 hrs. Your courses will
       reflect shortly. If you continue to face issues post that, please write to prou@prolifics.com.
-      Click the button below to send an email.
+      Click the button below to send an email
   utter_non_happy:
   - text: I am sorry, I am not sure how to help you with this.
   utter_ask_more:
@@ -136,7 +90,7 @@ templates:
   utter_communication:
   - text: Communication between manager and employee should be ongoing and address
       concerns, duties and expectations. Managers help employees achieve their professional
-      goals by providing career development and coaching.
+      goals by providing career development and coaching
   utter_confidentiality:
   - text: You are required to maintain such information in strict confidence. This
       policy benefits you, as an employee, by protecting the interests of the Company
@@ -159,7 +113,7 @@ templates:
       specific to the products or services that the Company is providing to customers
       as called for in design specifications and contract documents
   utter_policy:
-  - text: Please spcify policy you are looking for.
+  - text: Please spcify policy you are looking for?
   utter_rule_of_conduct:
   - text: Confidential Information- Improper disclosure of Prolifics’ confidential
       information will damage the Company and its prospects; improper disclosure of
@@ -169,20 +123,27 @@ templates:
       Depending upon your role, you may be required to complete a Conflict of Interest
       Form which obligates you to act in a manner which promotes the best interests
       of the Company, and to avoid all actual, potential or perceived conflicts of
-      interest.
+      interest
+  utter_common_property_intent:
+  - text: Prolifics will provide you with the necessary equipment to do your job. None of these equipment’s should be used for personal use nor removed from the physical confines of Prolifics - unless it is approved and your job specifically requires use of company equipment outside the physical facility of Prolifics. Login to PEP portal-> Policy -> Employee Handbook to know more
   utter_whistleblower:
   - text: A whistleblower as defined by this policy is an employee of Prolifics or
       its affiliates who reports an activity that he/she considers to be illegal or
-      dishonest to one or more of the parties specified in this Policy.
+      dishonest to one or more of the parties specified in this Policy
+  utter_company_vision:
+  - text: To be one of the most admired global technology consulting companies, delivering competitive advantage to our clients
+  utter_company_mission:
+  - text: To be a trusted advisor and provider of high-business value, technology solutions
   utter_contract_emp:
   - text: All contract employees should follow the organization policies and procedures
       mentioned in the Employee Handbook Joining and exit process should be same as
-      full time employees.
+      full time employees
+
 actions:
 - respond_lndFAQ
 - respond_common_property
 - respond_holiday_leaves
-- respond_voilance
+- respond_violence
 - respond_equal_opportunity
 - respond_performance
 - respond_benefits
@@ -221,3 +182,6 @@ actions:
 - utter_whistleblower
 - utter_contract_emp
 - utter_policy
+- utter_common_property_intent
+- utter_company_vision
+- utter_company_mission
