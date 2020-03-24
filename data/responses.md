@@ -400,24 +400,24 @@
 
 ## raise_IT_ticket
 * raise_ticket/raise_IT_ticket
-  - [Send Mail](mailto:ithelpdesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:ithelpdesk@prolifics.com)
 
 ## raise_HR_ticket
 * raise_ticket/raise_HR_ticket
-  - [Send Mail](mailto:indiaHRHelpdesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:indiaHRHelpdesk@prolifics.com)
 
 ## raise_HRBP_ticket
 * raise_ticket/raise_HRBP_ticket
-  - [Send Mail](mailto:hr.bp@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:hr.bp@prolifics.com)
 
 ## raise_FACILITIES_ticket
 * raise_ticket/raise_FACILITIES_ticket
-  - [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
 
 ## raise_LND_ticket
 * raise_ticket/raise_LND_ticket
-  - [Send Mail](mailto:L&DHelpDesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:L&DHelpDesk@prolifics.com)
 
 ## raise_FINANCE_ticket
 * raise_ticket/raise_FINANCE_ticket
-  -[Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
