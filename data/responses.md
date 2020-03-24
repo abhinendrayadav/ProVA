@@ -56,32 +56,31 @@
 
 ## my courses
 * lndFAQ/my_courses
-  - Plase Login to eLMS >> timeline (right side top)
+  - "Plase Login to eLMS >> timeline (right side top) https://prolifics.sumtotal.host
 
 ## learning hours
 * lndFAQ/learning_hours
-  - Login to eLMS >> Self >> Learning >> Learning Transcript >> export to PDF.
+  - Login to eLMS >> Self >> Learning >> Learning Transcript >> export to PDF https://prolifics.sumtotal.host
 
 ## progression course
 * lndFAQ/progression_course
-  - A. The system will check the band, course completion of the employee, and suggest the CDP.
-  - B. Please refer the learning engagement policy document on PeP to know your CDP
+  - The system will check the band, course completion of the employee, and suggest the CDP. Please reach out to your Supervisor to know further
 
 ## mandatory trainings
 * lndFAQ/mandatory_trainings
-  - You need to complete Infosec Awareness every 6 months; appropriate workplace harassment course every year, GDPR. Please refer the learning engagement policy document on PeP to know more.
+  - You need to complete Infosec Awareness every 6 months; appropriate workplace harassment course every year, GDPR. Please refer to the Career Progression document below for details: https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf
 
 ## idp
 * lndFAQ/IDP
-  - An IDP ensures that every employee receives all necessary opportunities to meet the behavioral and performance expectations from the role. This is identified and created to address the competency gaps of an employee. These are created by the respective people managers in collaboration with the employee.
+  - An IDP ensures that every employee receives all necessary opportunities to meet the behavioral and performance expectations from the role. This is identified and created to address the competency gaps of an employee. These are created by the respective people managers in collaboration with the employee
 
 ## learning plan
 * lndFAQ/learning_plan
-  - Your learning plan would be assigned by your manager at the start of every quarter. You should check your learning plan every month to ensure you maintain 10 hrs of learning every quarter.
+  - Your learning plan would be assigned by your manager at the start of every quarter. You should check your learning plan every month to ensure you maintain 10 hrs of learning every quarter. Please refer to the Career Progression document below for details: https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf
 
 ## promotion criteria
 * lndFAQ/promotion_criteria
-  - A. Each employee needs to be compliant with all learning requirements as specified by Prolifics policies, client mandates and Government laws. Login to PEP portal-> Policy -> Employee Handbook to know more.
+  - Each employee needs to be compliant with all learning requirements as specified by Prolifics policies, client mandates and Government laws. Please reach out to your Supervisor to know further
 
 ## mobile usage
 * common_property/mobile_usage
@@ -161,7 +160,7 @@
 
 ## harrasment policy
 * violence/harrasment_policy
-  - Any employee who feels they are being sexually harassed, directly or indirectly, may submit a complaint of the alleged incident to their manager, HR, Legal, OR any Executive of the company, preferably in writing within 10 days of occurrence of incident. Login to PEP portal-> Policy -> Employee Handbook to know more
+  - Any employee who feels they are being sexually harassed, directly or indirectly, may submit a complaint of the alleged incident to their manager, HR, Legal, OR any Executive of the company, preferably in writing within 10 days of occurrence of incident. Please refer the following document for details: https://pep.prolifics.com/dms/hr/hrpolicies/posh.pdf
 
 ## complaint review
 * violence/complaint_review
@@ -175,62 +174,190 @@
 * violence/drugs
   - Prolifics operates a no-smoking policy in the workplace. Smoking is not permitted anywhere in the building including the staircases and fire escapes. Further, Prolifics strictly prohibits any employee from reporting or being at work under the influence of drugs (unless medically prescribed) or alcohol
 
+## refer_policy
+* emp_refer/refer_policy
+  - The purpose of this policy is to recognize and reward employee's contribution in attracting new talent to the organization. All Open positions advertised internally are eligible for the Employee Referral Scheme. Employees should E-mail the resume to the Recruitment Team with a note indicating the referral person name, the open position and date of the referral
+
+## emp_refer/refer_fee
+* emp_refer/refer_fee
+  - If referred resume already exists in the Prolifics Databank, the profile will not be processed and the referring employee will be notified. Employee who refers will be paid 5% of the annual basic salary of the selected candidate. Employees serving their notice period are ineligible for a referral fee
+
+## employee_grievances
+* Communication/employee_grievances
+  - If an employee has questions concerning the policies and procedures of the organization, he/she may seek assistance/clarification with Human Resources. If a problem or miscommunication occurs with their direct manager, the involved employee has the right to escalate to Department and Executive Leadership without fear of retaliation
+
+## Confidentiality
+* Confidentiality/confidentiality
+  - This policy benefits you, as an employee, by protecting the interests of the Company in the safeguard of confidential, unique and valuable information from competitors or others. Should an occasion arise in which you are unsure of your obligations under this policy, it is your responsibility to consult your reporting manager
+
+## Intellectual_Property
+* Intellectual_Property/Intellectual_Property_policy
+  - Prolifics obligates all employees to respect, regard and protect the Intellectual Property as utmost Confidential Information at the highest end. The Intellectual Property and Confidential Information obligation of all Employees shall continue forever even on termination of employment terms with Prolifics for whatever reasons it may be
+
+## Intellectual_Property_details
+* Intellectual_Property/Intellectual_Property_details
+  - Intellectual property can be classified as but not limited to inventions, innovations, Copyrightable works, Computer software, programs, technical know-how, manuals, processes, trade secrets, trade connections, secret process, technology and technical information, data, customer database, expertise, drawings, documents, trademarks, techniques, methodologies, hardware, sales literature, brochures, customer lists, products, marketing or sales strategies, etc
+
 ## Job performance
 * performance/job
   - An employee may be disciplined for poor job performance.However, Prolifics reserves the right to proceed directly to termination without resorting to prior disciplinary steps when deemed appropriate.    
 
 ## Performance Appraisal Policy
 * performance/appraisal
-  - The purpose of this policy is to measure individual performance against the predefined SMART goals and targets given for each financial year on Annual basis and share the feedback and improvement areas
+  - The Policy covers all full-time and part-time employees who’ve joined on or before 31st March. It is applicable to those employees who have completed 12 months continuous service from the date of joining/ previous appraisal. Please reach to your Project Manager or Supervisor for further details
 
 ##  Variable Pay
 * performance/variable
-  - Variable compensation is an annual component. It is paid out half-yearly based on organizational, unit, and individual performance, gross margin and year over year quarterly growth. 
+  - Variable compensation is an annual component. It is paid out half-yearly based on organizational, unit, and individual performance, gross margin and year over year quarterly growth Please reach to your Project Manager or Supervisor for further details 
 
 ## Performance Imporvement Plan(PIP)
 * performance/pip
-  - All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Employees will be provided an opportunity to sign and add their own comments
+  - Performance Improvement Plans are implemented to address sub-standard job performance and conduct. All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Please reach out to HRBP for further details
 
 ## race awards scenario
 * performance/race
-  - To recognize and appreciate the achievers and high performers within a unit or functional division on a periodic basis such as a quarterly town-hall / get-together. 
+  - Employees are eligible for the Individual Award, Team Award or Individual On-Spot Award on a quarterly basis. For nominations, please reach out to your Supervisor 
 
 ## Provident Funds and ESI
-* benefits/pf_esi
+* Employee_Benefits/pf_esi
   - Prolifics is a member of the Regional Provident Fund as required by the Indian law. Please refer the below link for more details. [here](https //www.epfindia.gov.in/site_en/)
 
 ##  Gratuity
-* benefits/gratuity
+* Employee_Benefits/gratuity
   - After five years of continuous service, the Company will provide gratuity on termination/ retirement / resignation of the employment. Please refer the below link for more details. http //www.gratuity.org.in/
 
 ## Group Mediclaim Policy
-* benefits/mediclaim
-  - FTE Employee with Gross Wages less than Rs 21,000 PM are eligible for ESI and hence will be excluded from Medi-claim.Full time employees who are not covered under ESI (Wages greater than 21,000 PM) will be covered under GMC policy. Please contact respective HRBP for more details.
+* Employee_Benefits/mediclaim
+  - FTE Employee with Gross Wages less than Rs 21,000/month are eligible for ESI and hence will be excluded from Medi-claim.Full time employees who are not covered under ESI (Wages greater than 21,000/month) will be covered under GMC policy. Please contact HRBP for more details
 
 ## Extra work hours
-* benefits/extra_work
-  - This Policy is designed to provide benefits to employees required to work on overtime/ holidays/ weekends. 
+* Employee_Benefits/extra_work
+  - This Policy is designed to provide benefits to employees required to work on overtime/ holidays/ weekends. Please contact your Project Manager or Supervisor for more details 
 
 ## Meal vouchers
-* benefits/meals
-  - Prolifics provides meal vouchers to all employees as a tax saving component. This amount is determined as per the eligibility of the employee and is part of CTC. 
+* Employee_Benefits/meals
+  - Prolifics provides meal vouchers to all employees as a tax saving component. This amount is determined as per the eligibility of the employee and is part of CTC. If you are not interested in taking Meal Vouchers please send a request to HR Helpdesk for the same before 5th working day of the month
+
+## Deputation_Policy/deputation
+* Deputation_Policy/deputation
+  - Any travel more than 30 days is treated as deputation. Period of Deputation will not exceed 6 months. If deputation is converted to a transfer, the employee is eligible for reimbursement of relocation expenses as per the policy. Please contact your Project Manager or Supervisor for more details  
 
 ## Resignation
 * seperation/resign
-  - In the event you decide to voluntarily resign your employment, you will be expected to serve a notice of 3 months. Exceptions are for employees who have recently returned from any foreign assignment. In such instances, the notice period will be as per the Travel Policy
+  - In the event you decide to voluntarily resign your employment, you will be expected to serve a notice of 3 months. It is always advisable to discuss possible resignation with your manager before submitting your resignation
+
+## seperation/notice_period
+* seperation/notice_period
+  - In case of resignation, notice period will be applicable as per the signed Appointment letter or Service Agreement. Any request for early relieving will be at the discretion of the Management based on concurrence from the respective Manager and Practice/Department Head. Employee who is retained or voluntarily withdraws their resignation have to continue with the organization for at least a period of six months from that date
 
 ## Seperation from Employement
 * seperation/emp_separation
-  - Prolifics recognizes that sometimes circumstances arise when it is necessary for the Company to terminate an employment relationship due to misconduct of an employee or for other business or economic reasons. Prolifics reserves the right to terminate the employment relationship with an appropriate notice
+  - There are two types of separation, Voluntary and Involuntary. It is always advisable to discuss possible resignation with your manager before submitting your resignation
 
 ## Disciplinary Action
 * seperation/disciplinary
-  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources.
+  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources. Progressive discipline or corrective action may not be imposed in situations involving serious misconduct, which may result in immediate separation. To know about possible reasons for disciplinary action: Login to PEP portal-> Policy -> Employee Handbook
 
 ## Gardening Leave
 * seperation/gardening
-  - The purpose of Gardening Leave policy is to keep the voluntarily/involuntarily resigned employees (who are unproductive) away from work during the whole / part of the notice period, while still keeping them on the company payroll.
+  - Gardening Leave policy is applicable to employees who have resigned, whether voluntarily or involuntarily, and do not require to complete any knowledge transfer and/or not assigned any tasks during their notice period, while still keeping them on the company payroll. Please contact HRBP for more details
 
 ## Exit interview
 * seperation/exit_interview
-  - All departing employees are requested to participate in an exit interview in which the reasons for leaving will be discussed. Information gained will be used to monitor staff turnover and identify potential problem areas. 
+  - All departing employees are requested to participate in an exit interview in which the reasons for leaving will be discussed. Once all exit formalities are completed, the employee is given the Resignation Acceptance Letter from the HR Desk. The Relieving Letter and Experience Letter will be handed over to the employee within 60 days from the date of leaving the organization
+
+## seperation/exit_forms
+* seperation/exit_forms
+  - Employees need to complete identified forms like No-Dues Clearance Form, Knowledge Transfer Form, HR Feedback Form, which are available on the HR Portal. Apart from this employee also needs to give their feedback in their Exit Survey. On their last working day, employees are expected to return all Company-issued property: Laptop, ID card, keys, documents, etc., along with the above stated Forms.
+
+## seperation/relieving_letter
+* seperation/relieving_letter
+  - Once all exit formalities are completed, the employee is given the Resignation Acceptance Letter from the HR Desk. The Relieving Letter and Experience Letter will be handed over to the employee within 60 days from the date of leaving the organization. No relieving letter shall be issued unless and until the employee settles all his/her dues with the company and returns all company issued property
+
+## seperation/final_settlement
+* seperation/final_settlement
+  - During the course of the notice period, the last month’s salary for the employee will be withheld and will be taken into consideration during the full & final settlement for the employee. The company will issue a cheque designated as the full and final payment for all services rendered within 60 days from the date of leaving the organization
+
+## Basic_Rule_Of_Conduct/conflict_of_interest
+* Basic_Rule_Of_Conduct/conflict_of_interest
+  - Prolifics recognizes that its employees are talented individuals, and that some may engage in other employment outside of their regular working hours with the Company. However, because the work may be in direct competition with the Company and may compromise the Company's interests, employees who engage in outside work must describe the outside work to their manager for approval before doing such work. Login to PEP portal-> Policy -> Employee Handbook to know more
+
+## Whistleblower_Policy/whistleblower
+* Whistleblower_Policy/whistleblower
+  - If an employee has knowledge of or a concern of illegal or dishonest fraudulent activity, the employee is to contact his/her immediate supervisor, Legal or Human Resources
+
+## Contract_Employee_Policy/contract_emp
+* Contract_Employee_Policy/contract_emp
+  - Contract employees should follow the organization policies and procedures mentioned in the Employee Handbook. Joining and exit process should be same as full time employees.Compensation will be paid as per the terms mentioned in contract agreement. Login to PEP portal-> Policy -> Employee Handbook to know more
+
+## Equal_Opportunity_Employment/promotion_policy
+* Equal_Opportunity_Employment/promotion_policy
+  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. Login to PEP portal-> Policy -> Employee Handbook to know more
+
+## Equal_Opportunity_Employment/promotion_parameters
+* Equal_Opportunity_Employment/promotion_parameters
+  - 1.Performance 2.Demonstrated Success Factors & Competencies 3.Relevant Overall experience as required for role success 4.Vacancy/ Requirement in the organization pyramid. Please reach out to your Supervisor to know further
+
+## Equal_Opportunity_Employment/progression_policy
+* Equal_Opportunity_Employment/progression_policy
+  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. Login to PEP portal-> Policy -> Employee Handbook to know more
+
+## Equal_Opportunity_Employment/progression_parameters
+* Equal_Opportunity_Employment/progression_parameters
+  - Cadre to Cadre promotions are based on performance, supervisory recommendation, total size of the function, budget, need based, availability, pyramid. Please reach out to your Supervisor to know further
+
+## Travel_Policy/travel
+* Travel_Policy/travel
+  - The policy outlines as well describe in detail the policy around expense reimbursement for travelling company personnel. Login to PEP portal-> Policy -> Employee Handbook to know more
+
+## Performance_Review/appraisal
+* Performance_Review/appraisal
+  - The Policy covers all full-time and part-time employees who’ve joined on or before 31st March. It is applicable to those employees who have completed 12 months continuous service from the date of joining/ previous appraisal. Please reach to your Project Manager or Supervisor for further details
+
+## Performance_Review/variable
+* Performance_Review/variable
+  - Variable compensation is an annual component. It is paid out half-yearly based on organizational, unit, and individual performance, gross margin and year over year quarterly growth Please reach to your Project Manager or Supervisor for further details
+
+## Performance_Review/pip
+* Performance_Review/pip
+  - Performance Improvement Plans are implemented to address sub-standard job performance and conduct. All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Please reach out to HRBP for further details
+
+## Performance_Review/race
+* Performance_Review/race
+  - Employees are eligible for the Individual Award, Team Award or Individual On-Spot Award on a quarterly basis. For nominations, please reach out to your Supervisor
+
+## chitchat/ask_builder
+* chitchat/ask_builder
+  - Awesome engineers at Prolifics
+
+## chitchat/ask_howdoing
+* chitchat/ask_howdoing
+  - I'm great! Thanks for asking
+
+## chitchat/ask_isbot
+* chitchat/ask_isbot
+  - Yes! My name is ProVA. How can i help?
+
+## chitchat/ask_wherefrom
+* chitchat/ask_wherefrom
+  - I was taught not to give out my address on the internet.
+
+## chitchat/bye
+* chitchat/bye
+  - Goodbye!
+
+## chitchat/explain
+* chitchat/explain
+  - [Click Here](https://pep.prolifics.com/dms/index/policy/) for more details
+
+## chitchat/greet
+* chitchat/greet
+  - Hello, How can i help?
+
+## chitchat/curse
+* chitchat/curse
+  - That's not very nice 😢
+
+## chitchat/thank
+* chitchat/thank
+  - My pleasure! I'm happy to help.

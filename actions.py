@@ -50,11 +50,9 @@ class ActionSendEmail(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text,Any]) ->List[Dict[Text,Any]]:
+            print("Ticket info",tracker.get_slot('ticket'))
 
-            input = tracker.latest_message.get('text')
-            msg = input.replace(" ", "%20")
-
-            dispatcher.utter_message("<a href=mailto:ithelpdesk@prolifics.com?subject={}&body=Hi,%20{}>Send Mail</a>".format(msg,msg))
+            dispatcher.utter_message('[Send Mail](mailto:indiaHRHelpdesk@prolifics.com)')
 
             return[]
     

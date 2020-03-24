@@ -4,60 +4,75 @@
   - utter_ask_more
 
 ## lnd acc lock
-* lnd_lock
-  - utter_acc_lock
-  - action_acc_lock
+* lnd_account_lock
+  - utter_lnd_account_lock
+  - utter_lnd_account_lock_button
   - utter_ask_more
 
 ## lnd status
-* lnd_status
-  - utter_status
-  - action_status
+* lnd_course_status
+  - utter_lnd_course_status
+  - utter_lnd_course_status_button
   - utter_ask_more
 
 ## lnd_thinkhr
-* lnd_thinkhr
-  - utter_thinkhr
-  - action_thinkhr
+* lnd_thinkhr_course
+  - utter_lnd_thinkhr_course
+  - utter_lnd_thinkhr_course_button
   - utter_ask_more
 
 ## ext traininghs
-* lnd_ext_trainings
-  - utter_ext_training
-  - action_ext_trainings
+* lnd_external_trainings
+  - utter_lnd_external_trainings
+  - utter_lnd_external_trainings_button
   - utter_ask_more
 
-## curse story
-* curse
-  - utter_curse_response
-
-## mail IT with entity extracted
-* raise_ticket{"ticket":"ithelpdesk"}
- - utter_ask_what
-
-## concern
-* concern
- - utter_click_button
- - action_send_it_email
- - utter_ask_more
-
-## mail it without entity
+## raise ticket
 * raise_ticket
  - utter_which_ticket
-* inform{"ticket":"ithelpdesk"}
- - utter_ask_what
- 
-## greet with user saying happy and neutral
 
-* greet
-    - utter_greet    
+## mail IT with entity extracted
+* raise_IT_ticket
+ - utter_click_button
+ - utter_send_mail_IT_helpdesk_button
+ - utter_ask_more
+
+## mail HR with entity extracted
+* raise_HR_ticket
+ - utter_click_button
+ - utter_send_mail_HR_Helpdesk_button
+ - utter_ask_more
+
+## mail HRBP with entity extracted
+* raise_HRBP_ticket
+ - utter_click_button
+ - utter_send_mail_HRBP_button
+ - utter_ask_more
+
+## mail FACILITES with entity extracted
+* raise_FACILITIES_ticket
+ - utter_click_button
+ - utter_send_mail_Facilities_button
+ - utter_ask_more
+
+## mail LND with entity extracted
+* raise_LND_ticket
+ - utter_click_button
+ - utter_send_mail_LnD_Helpdesk_button
+ - utter_ask_more
+
+
+## mail IT with entity extracted
+* raise_FINANCE_ticket
+ - utter_click_button
+ - utter_send_mail_Finance_helpdesk_button
+ - utter_ask_more
 
 ## thanks 
 * thanks
     - utter_thanks_reply
 
 ## outlook
-
 * outlook_issue
  - utter_click_button
  - action_send_it_email
@@ -82,49 +97,44 @@
  - respond_violence
  - utter_ask_more
 
-## equal_opportunity
-* equal_opportunity
- - respond_equal_opportunity
- - utter_ask_more
-
 ## emp_refer
 * emp_refer
- - utter_emp_refer
+ - respond_emp_refer
  - utter_ask_more
 
 ## communication
-* communication
- - utter_communication
+* Communication
+ - respond_Communication
  - utter_ask_more
 
 ## confidentiality
-* confidentiality
- - utter_confidentiality
+* Confidentiality
+ - respond_Confidentiality
  - utter_ask_more
 
 ## intellect_prop
-* intellect_prop
- - utter_intellect_prop
+* Intellectual_Property
+ - respond_Intellectual_Property
  - utter_ask_more
 
 ## performance
-* performance
- - respond_performance
+* Performance_Review
+ - respond_Performance_Review
  - utter_ask_more
 
 ## benefits
-* benefits
- - respond_benefits
+* Employee_Benefits
+ - respond_Employee_Benefits
  - utter_ask_more
 
 ## deputation
-* deputation
- - utter_deputation
+* Deputation_Policy
+ - respond_Deputation_Policy
  - utter_ask_more
 
 ## travel
-* travel
- - utter_travel
+* Travel_Policy
+ - respond_Travel_Policy
  - utter_ask_more
 
 ## seperation
@@ -132,24 +142,19 @@
  - respond_seperation
  - utter_ask_more
 
-## env_protection
-* env_protection
- - utter_env_protection
- - utter_ask_more
-
 ## rule_of_conduct
-* rule_of_conduct
- - utter_rule_of_conduct
+* Basic_Rule_Of_Conduct
+ - respond_Basic_Rule_Of_Conduct
  - utter_ask_more
 
 ## whistleblower
-* whistleblower
- - utter_whistleblower
+* Whistleblower_Policy
+ - respond_Whistleblower_Policy
  - utter_ask_more
 
 ## contract_emp
-* contract_emp
- - utter_contract_emp
+* Contract_Employee_Policy
+ - respond_Contract_Employee_Policy
  - utter_ask_more
  
 ## general policies
@@ -171,3 +176,36 @@
 * company_mission
  - utter_company_mission
  - utter_ask_more
+
+## violence_generic_intent
+* violence_generic_intent
+ - utter_violence_generic_intent
+
+## utter_Employee_Benefits_generic
+* Employee_Benefits_generic
+  - utter_Employee_Benefits_generic
+
+## utter_Performance_Review_generic
+* Performance_Review_generic
+  - utter_Performance_Review_generic
+
+## utter_performance
+* performance
+  - utter_performance
+
+## respond_Equal_Opportunity_Employment
+* respond_Equal_Opportunity_Employment
+  - respond_Equal_Opportunity_Employment
+  - utter_ask_more
+
+## utter_equal_opportunity
+* equal_opportunity
+  - utter_equal_opportunity
+
+## utter_promotion_progression_policy
+* promotion_progression_policy
+  - utter_promotion_progression_policy
+
+## chitchat response selector
+* chitchat
+  - respond_chitchat

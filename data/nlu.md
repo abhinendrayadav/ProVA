@@ -1,105 +1,81 @@
-## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
-
-## intent:curse
-- what the hell
-- hell
-- shut up
-- you are dumb
-- loser
-
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
-
 ## intent:goodbye
 - bye
 - goodbye
 - see you around
 - see you later
 
-## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
-
-## intent:inform
-- [it](ticket)
-- [ithelpdesk](ticket)
-- [it helpdesk](ticket)
-
 ## intent:concern
 - install
 - remote access
 
-## intent:lnd_ext_trainings
+## intent:lnd_external_trainings
 - external training
 - training process
-- external process
 
-## intent:lnd_lock
-- locked
+## intent:lnd_account_lock
 - LMS lock
 - account lms locked
-- account lock
-- my lms account is locked
-- my lms accout is locked
+- learning account locked
+- prou locked
+- elms locked
 
-## intent:lnd_status
-- status in progress
+## intent:lnd_course_status
 - courses in progress
 - pending courses
 
-## intent:lnd_thinkhr
+## intent:lnd_thinkhr_course
 - think hr courses
-- elms course
-- courses
-- reflecting
-
-## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
-- Happy
-- Neutral
-
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
-- Sad
+- thinkhr
+- think hr
 
 ## intent:raise_ticket
-- raise a ticket to [ithelpdesk](ticket)
-- raise a ticket to [IT](ticket)
-- [ithelpdesk](ticket)
 - raise a ticket
 - I need to create a ticket
-- create a ticket
-- i need to create a ticket
+
+## intent:raise_IT_ticket
+- raise a ticket to ithelpdesk
+- raise a ticket to IT
+- ithelpdesk
+- it helpdesk
+- it help desk
+
+## intent:raise_HR_ticket
+- raise a ticket to hrhelpdesk
+- raise a ticket to HR
+- raise a ticket to HR helpdesk
+
+## intent:raise_HRBP_ticket
+- raise a ticket to hrbphelpdesk
+- raise a ticket to HRBP
+- raise a ticket to HR helpdesk
+- hrbp
+- hrbphelpdesk
+- hrbp helpdesk
+
+
+## intent:raise_FACILITIES_ticket
+- raise a ticket to facilitieshelpdesk
+- raise a ticket to Facilities
+- facilities
+- facilities helpdesk
+- facilities help desk
+
+## intent:raise_LND_ticket
+- raise a ticket to lndhelpdesk
+- raise a ticket to LandD
+- raise a ticket to LnD
+- prou
+- lnd
+- l and d
+- l&d
+
+## intent:raise_FINANCE_ticket
+- raise a ticket to financehelpdesk
+- raise a ticket to Finance
+- finance
+- financehelpdesk
+- finance helpdesk
+- finance help desk
 
 ## intent:outlook_issue
 - outlook not working
@@ -114,43 +90,16 @@
 - thank you. goodbye
 - thanks goodbye
 
-## intent:emp_refer
-- refferal
-- reffer
-- refer
+## intent:Performance_Review_generic
+- performance
+- performance review
 
-## intent:communication
-- communication
+## intent:performance
+- job performance
 
-## intent:confidentiality
-- confidentiality
-- confidential
-
-## intent:intellect_prop
-- intellectual property
-
-
-## intent:deputation
-- deputation
-- deputation policy
-
-## intent:travel
-- travel
-
-## intent:env_protection
-- environment protection
-- environment
-
-## intent:rule_of_conduct
-- rule of conduct
-- rules of conduct
-
-## intent:whistleblower
-- whistleblower
-
-## intent:contract_emp
-- contract
-- on contract employee
+## intent:job
+- poor job performance
+- termination
 
 ## intent:policy
 - policy
@@ -163,6 +112,20 @@
 - company vision
 - vision
 
-# intent:company_mission
+## intent:company_mission
 - company mission
 - mission
+
+## intent:violence_generic_intent
+- Violence in workplace
+
+## intent:Employee_Benefits_generic
+- benefits
+- employee benefits
+
+## intent:equal_opportunity
+- Equal Opportunity Employment
+
+## intent:promotion_progression_policy
+- promotion progression policy
+

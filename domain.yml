@@ -1,56 +1,51 @@
 intents:
 - greet
 - goodbye
-- affirm
-- deny
-- mood_great
-- mood_unhappy
-- raise_ticket
+- raise_IT_ticket
+- raise_HR_ticket
+- raise_HRBP_ticket
+- raise_FACILITIES_ticket
+- raise_LND_ticket
+- raise_FINANCE_ticket
 - thanks
 - concern
 - inform
-- curse
 - lndFAQ
 - gen_policy
-- lnd_lock
+- lnd_account_lock
 - outlook_issue
-- lnd_status
-- lnd_thinkhr
-- lnd_ext_trainings
+- lnd_course_status
+- lnd_thinkhr_course
+- lnd_external_trainings
 - emp_refer
-- communication
-- confidentiality
-- intellect_prop
-- deputation
-- travel
+- Communication
+- Confidentiality
+- Intellectual_Property
+- Performance_Review_generic
+- performance
+- job
+- Deputation_Policy
+- Travel_Policy
 - policy
-- env_protection
-- rule_of_conduct
-- whistleblower
-- contract_emp
-- lndFAQ/learning_plan
-- lndFAQ/mandatory_trainings
-- lndFAQ/progression_course
-- lndFAQ/promotion_criteria
-- lndFAQ/learning_hours
-- lndFAQ/IDP
-- lndFAQ/my_courses
+- Basic_Rule_Of_Conduct
+- Whistleblower_Policy
+- Contract_Employee_Policy
 - seperation
 - common_property
 - equal_opportunity
 - violence
-- benefits
+- Employee_Benefits
 - holiday_leaves
-- performance
+- Performance_Review
 - company_vision
 - company_mission
-entities:
-- ticket
+- violence_generic_intent
+- Employee_Benefits_generic
+- Equal_Opportunity_Employment
+- promotion_progression_policy
+- chitchat
+
 templates:
-  utter_greet:
-  - text: Hello, How can i help?
-  utter_ask_what:
-  - text: What is it you want to raise ticket for?
   utter_which_ticket:
   - text: Whom you want me to raise the ticket to?
   utter_click_button:
@@ -64,19 +59,19 @@ templates:
   - text: My pleasure!
   utter_goodbye:
   - text: Happy to help! Goodbye
-  utter_acc_lock:
+  utter_lnd_account_lock:
   - text: Please drop an email to ProU@prolifics.com They will unlock the account
       and respond to you shortly. Click the button below to send an email
-  utter_status:
+  utter_lnd_course_status:
   - text: Please mail to prou@prolifics.com The team will validate and reply to you.
       Click the button below to send an email
-  utter_ext_training:
+  utter_lnd_external_trainings:
   - text: After acquiring approval for the cost of training from the practice director,
       raise a request to prou@prolifics.com. Please refer the learning engagement
       policy document on PeP to know more. All external trainings and certifications
       should be updated in the ELMS within 1 month of completion. Click the button
       below to send an email
-  utter_thinkhr:
+  utter_lnd_thinkhr_course:
   - text: eLMS automatically updates ThinkHR courses every 48 hrs. Your courses will
       reflect shortly. If you continue to face issues post that, please write to prou@prolifics.com.
       Click the button below to send an email
@@ -87,101 +82,151 @@ templates:
   utter_emp_refer:
   - text: The purpose of this policy is to recognize and reward employee's contribution
       in attracting new talent to the organization.
-  utter_communication:
-  - text: Communication between manager and employee should be ongoing and address
-      concerns, duties and expectations. Managers help employees achieve their professional
-      goals by providing career development and coaching
-  utter_confidentiality:
-  - text: You are required to maintain such information in strict confidence. This
-      policy benefits you, as an employee, by protecting the interests of the Company
-      in the safeguard of confidential, unique and valuable information from competitors
-      or other
-  utter_intellect_prop:
-  - text: Prolifics obligates all employees to respect, regard and protect the Intellectual
-      Property as utmost Confidential Information at the highest end. The Employees
-      must understand that this Intellectual Property as invaluable, which has been
-      developed over many man years of efforts by Prolifics
-  utter_deputation:
-  - text: The purpose of deputation policy is to define conditions under which any
-      official travel is considered as Deputation and fix the monthly entitlements
-  utter_travel:
-  - text: The policy outlines as well describe in detail the policy around expense
-      reimbursement for travelling company personnel in the following categories 1-
-      domestic 2- international 3- local coveyance while on travel
-  utter_env_protection:
-  - text: Prolifics will also comply with any additional environmental requirements
-      specific to the products or services that the Company is providing to customers
-      as called for in design specifications and contract documents
   utter_policy:
   - text: Please spcify policy you are looking for?
-  utter_rule_of_conduct:
-  - text: Confidential Information- Improper disclosure of Prolifics’ confidential
-      information will damage the Company and its prospects; improper disclosure of
-      client's confidential information will irreparably damage Prolifics’ reputation
-      and may subject the Company to liability for damages. Conflict of Interest-
-      All employees are required to read the Company’s Conflict of Interest policy.
-      Depending upon your role, you may be required to complete a Conflict of Interest
-      Form which obligates you to act in a manner which promotes the best interests
-      of the Company, and to avoid all actual, potential or perceived conflicts of
-      interest
   utter_common_property_intent:
   - text: Prolifics will provide you with the necessary equipment to do your job. None of these equipment’s should be used for personal use nor removed from the physical confines of Prolifics - unless it is approved and your job specifically requires use of company equipment outside the physical facility of Prolifics. Login to PEP portal-> Policy -> Employee Handbook to know more
-  utter_whistleblower:
-  - text: A whistleblower as defined by this policy is an employee of Prolifics or
-      its affiliates who reports an activity that he/she considers to be illegal or
-      dishonest to one or more of the parties specified in this Policy
   utter_company_vision:
   - text: To be one of the most admired global technology consulting companies, delivering competitive advantage to our clients
   utter_company_mission:
   - text: To be a trusted advisor and provider of high-business value, technology solutions
-  utter_contract_emp:
-  - text: All contract employees should follow the organization policies and procedures
-      mentioned in the Employee Handbook Joining and exit process should be same as
-      full time employees
+  utter_lnd_account_lock_button:
+  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=LMS%20Account%20Lock)'
+  utter_lnd_course_status_button:
+  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=Pending%20Courses)'
+  utter_lnd_thinkhr_course_button:
+  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses)'
+  utter_lnd_external_trainings_button:
+  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=External%20Trainings)'
+  utter_promotion_progression_policy:
+  - text: What would you like to know about
+    buttons: 
+    - title: Promotion 
+      payload: 'promotion'
+    - titile: Progression
+      payload: 'progression'
+  utter_equal_opportunity:
+  - text: Prolifics is an Equal Opportunity Employer. This means that we will extend equal opportunity to all individuals without regard for race, religion, color, sex, national origin, age, differently abled, or veteran’s status. What would you like to know about
+    buttons:
+    - title: Promotion
+      payload: 'promotion'
+    - title: Progression
+      payload: 'progression'
+  utter_job:
+  - text: An employee may be disciplined for poor job performance.However, Prolifics reserves the right to proceed directly to termination without resorting to prior disciplinary steps when deemed appropriate.Except as set forth below, dismissal for poor performance ordinarily will be preceded by a Performance Improvement Plan. Please click on the button below to know more about PIP
+    buttons:
+    - title: Performance Improvement Plan (PIP)
+      payload: 'pip'
+  utter_performance:
+  - text: All Prolifics employees will be evaluated at periodic intervals based on his/her job description and not less than annually. Good performance would be rewarded by RACE awards and poor performance would go through a Performance Improvement Plan (PIP). What would you like to know about
+    buttons:
+    - title: Performance Improvement Plan (PIP)
+      payload: 'pip'
+    - title: RACE Awards
+      payload: 'race'
+  utter_send_mail_HR_Helpdesk_button:
+  - text: '[Send Mail](mailto:indiaHRHelpdesk@prolifics.com)'
+  utter_send_mail_IT_helpdesk_button:
+  - text: '[Send Mail](mailto:ithelpdesk@prolifics.com)'
+  utter_send_mail_Finance_helpdesk_button:
+  - text: '[Send Mail](mailto:IndiaFinanceHelpdesk@prolifics.com)'
+  utter_send_mail_Facilities_button:
+  - text: '[Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)'
+  utter_send_mail_LnD_Helpdesk_button:
+  - text: '[Send Mail](mailto:L&DHelpDesk@prolifics.com)'
+  utter_send_mail_HRBP_button:
+  - text: '[Send Mail](mailto:hr.bp@prolifics.com)'
+  utter_violence_generic_intent:
+  - text: What would you like to know about
+    buttons: 
+    - title: Harrasment policy
+      payload: 'POSH'
+    - title: Internal complaint review policy
+      payload: 'complaint'
+    - title: Code of ethical conduct
+      payload: 'ethical conduct'
+    - title: Alchohol/Drugs consumption and smoking
+      payload: 'alchohol'
+
+  utter_Performance_Review_generic:
+  - text: What would you like to know about
+    buttons:
+    - title: Job Performance
+      payload: 'job performance'
+    - title: Performance Appraisal Policy
+      payload: 'appraisal'
+    - title: Variable Pay
+      payload: 'variable'
+    - title: Performance Improvement Plan (PIP)
+      payload: 'pip'
+    - title: RACE Awards
+      payload: 'race'
+    
+  utter_Employee_Benefits_generic:
+  - text: What would you like to know about
+    buttons:
+    - title: Provident Funds and ESI
+      payload: 'pf'
+    - title: Gratuity
+      payload: 'Gratuity'
+    - title: Group Medi-claim Policy
+      payload: 'mediclaim'
+    - title: Extra Work Hours
+      payload: 'extra work'
+    - title: Meal Vouchers
+      payload: 'meal'
 
 actions:
 - respond_lndFAQ
 - respond_common_property
 - respond_holiday_leaves
 - respond_violence
-- respond_equal_opportunity
-- respond_performance
-- respond_benefits
+- respond_emp_refer
+- respond_Performance_Review
+- respond_Employee_Benefits
 - respond_seperation
 - respond_gen_policy
-- utter_greet
+- respond_Communication
+- respond_Confidentiality
+- respond_Intellectual_Property
+- respond_Deputation_Policy
+- respond_Travel_Policy
+- respond_Basic_Rule_Of_Conduct
+- respond_Whistleblower_Policy
+- respond_Contract_Employee_Policy
+- respond_Equal_Opportunity_Employment
+- respond_chitchat
 - action_default_fallback
-- action_reminder
-- utter_ask_what
 - utter_which_ticket
-- utter_sad_reason
-- utter_thanks_ask
 - utter_ask_more
 - action_send_it_email
-- utter_acc_lock
-- utter_status
-- utter_thinkhr
-- utter_ext_training
-- action_acc_lock
-- action_status
-- action_thinkhr
-- action_ext_trainings
-- utter_curse_response
+- utter_lnd_account_lock
+- utter_lnd_course_status
+- utter_lnd_thinkhr_course
+- utter_lnd_external_trainings
+- utter_lnd_account_lock_button
+- utter_lnd_course_status_button
+- utter_lnd_thinkhr_course_button
+- utter_lnd_external_trainings_button
 - utter_click_button
 - utter_non_happy
 - utter_thanks_reply
 - utter_goodbye
 - utter_emp_refer
-- utter_communication
-- utter_confidentiality
-- utter_intellect_prop
-- utter_deputation
-- utter_travel
-- utter_env_protection
-- utter_rule_of_conduct
-- utter_whistleblower
-- utter_contract_emp
 - utter_policy
 - utter_common_property_intent
 - utter_company_vision
 - utter_company_mission
+- utter_violence_generic_intent
+- utter_Performance_Review_generic
+- utter_Employee_Benefits_generic
+- utter_performance
+- utter_job
+- utter_equal_opportunity
+- utter_promotion_progression_policy
+- utter_send_mail_IT_helpdesk_button
+- utter_send_mail_HR_Helpdesk_button
+- utter_send_mail_Finance_helpdesk_button
+- utter_send_mail_Facilities_button
+- utter_send_mail_LnD_Helpdesk_button
+- utter_send_mail_HRBP_button
