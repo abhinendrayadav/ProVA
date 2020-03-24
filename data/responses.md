@@ -54,6 +54,10 @@
 * gen_policy/internship_policy
   - Prolifics provides an opportunity to college students and out of college young professionals (not in any job) in the areas of technology, processes and standards to familiarize themselves about different departments in the company. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
 
+## gen_policy/wfh_ooo
+* gen_policy/wfh_ooo
+  - “Work from home” and “Out of Office” should be planned, applied and approved in Leave Management System in advance, however employee should regularize his/her absence by obtaining manager’s approval in the Leave Management System within seven calendar days from absence start date; else the same will be treated as LOP in spite of leave balance
+
 ## my courses
 * lndFAQ/my_courses
   - "Plase Login to eLMS >> timeline (right side top) https://prolifics.sumtotal.host
@@ -81,6 +85,22 @@
 ## promotion criteria
 * lndFAQ/promotion_criteria
   - Each employee needs to be compliant with all learning requirements as specified by Prolifics policies, client mandates and Government laws. Please reach out to your Supervisor to know further
+
+## lndFAQ/lnd_external_trainings
+* lndFAQ/lnd_external_trainings
+  - After acquiring approval for the cost of training from the practice director, raise a request to prou@prolifics.com. Please refer the learning engagement policy document on PeP to know more. All external trainings and certifications should be updated in the ELMS within 1 month of completion. [Click Here](mailto:ProU@prolifics.com?subject=External%20Trainings) to send an email
+
+## lndFAQ/lnd_account_lock
+* lndFAQ/lnd_account_lock
+  - Please drop an email to ProU@prolifics.com They will unlock the account and respond to you shortly. [Click Here](mailto:ProU@prolifics.com?subject=LMS%20Account%20Lock) to send an email
+
+## lndFAQ/lnd_course_status
+* lndFAQ/lnd_course_status
+  - Please mail to prou@prolifics.com The team will validate and reply to you. [Click Here](mailto:ProU@prolifics.com?subject=Pending%20Courses) to send an email
+
+## lndFAQ/lnd_thinkhr_course
+* lndFAQ/lnd_thinkhr_course
+  - eLMS automatically updates ThinkHR courses every 48 hrs. Your courses will reflect shortly. If you continue to face issues post that, please write to prou@prolifics.com. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email
 
 ## mobile usage
 * common_property/mobile_usage
@@ -153,6 +173,22 @@
 ## paternity leave
 * holiday_leaves/paternity_leave
   - Employee will be eligible for Paternity Leave of 3 days during expected or actual delivery period of the baby. It has to be availed within 10 days of the birth of the child and in one stretch without any break
+
+## holiday_leaves/leave_accruals
+* holiday_leaves/leave_accruals
+  - Leaves will be calculated on a financial year basis but credited on quarterly basis i.e. 1st Jan, 1st Apr, 1st Jul and 1st Oct of every year. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+
+## holiday_leaves/number_of_leaves
+* holiday_leaves/number_of_leaves
+  - Tenure < 2 years, 16 days Annual leave + 1 My Leave; Tenure > 2 years, 20 days Annual leave + 1 My Leave
+
+## holiday_leaves/encashable_leaves
+* holiday_leaves/encashable_leaves
+  -  50% of the Annual leaves. Unutilized leaves in encashable category will be encashed
+
+## holiday_leaves/non_encashable_leaves
+* holiday_leaves/non_encashable_leaves
+  - 50% of the Annual leaves. Unutilized leaves from the Non-Encashable category will be carry forwarded to the next financial year
 
 ## violence/workplace_violence
 * violence/workplace_violence
@@ -256,7 +292,7 @@
 
 ## Disciplinary Action
 * seperation/disciplinary
-  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources. Progressive discipline or corrective action may not be imposed in situations involving serious misconduct, which may result in immediate separation. To know about possible reasons for disciplinary action: Login to PEP portal-> Policy -> Employee Handbook
+  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources. Progressive discipline or corrective action may not be imposed in situations involving serious misconduct, which may result in immediate separation. To know about possible reasons for disciplinary action: [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
 
 ## Gardening Leave
 * seperation/gardening
@@ -361,3 +397,27 @@
 ## chitchat/thank
 * chitchat/thank
   - My pleasure! I'm happy to help.
+
+## raise_IT_ticket
+* raise_ticket/raise_IT_ticket
+  - [Send Mail](mailto:ithelpdesk@prolifics.com)
+
+## raise_HR_ticket
+* raise_ticket/raise_HR_ticket
+  - [Send Mail](mailto:indiaHRHelpdesk@prolifics.com)
+
+## raise_HRBP_ticket
+* raise_ticket/raise_HRBP_ticket
+  - [Send Mail](mailto:hr.bp@prolifics.com)
+
+## raise_FACILITIES_ticket
+* raise_ticket/raise_FACILITIES_ticket
+  - [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
+
+## raise_LND_ticket
+* raise_ticket/raise_LND_ticket
+  - [Send Mail](mailto:L&DHelpDesk@prolifics.com)
+
+## raise_FINANCE_ticket
+* raise_ticket/raise_FINANCE_ticket
+  -[Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)

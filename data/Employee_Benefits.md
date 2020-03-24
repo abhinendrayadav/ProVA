@@ -17,6 +17,8 @@
 - extra work
 - extra hours
 - extra work hours
+- Over time
+- Overtime
 
 ## intent:Employee_Benefits/meals
 - meal

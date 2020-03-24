@@ -68,3 +68,10 @@
 ## intent:gen_policy/internship_policy
 - Temporary Internship Policy 
 - internship
+
+
+## intent:gen_policy/wfh_ooo
+- wfh
+- work from home
+- ooo
+- out of office

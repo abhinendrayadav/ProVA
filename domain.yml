@@ -44,37 +44,50 @@ intents:
 - Equal_Opportunity_Employment
 - promotion_progression_policy
 - chitchat
+- hr_generic_intent
+- learning_development_generic_intent
+- raise_ticket_generic_intent
+- raise_ticket
+- letter
+- quick_links
 
 templates:
-  utter_which_ticket:
-  - text: Whom you want me to raise the ticket to?
+  utter_raise_ticket_generic_intent:
+  - text: Whom do you want to raise the ticket to
+    buttons: 
+    - title: IT HelpDesk 
+      payload: 'ithelpdesk'
+    - titile: HR HelpDesk
+      payload: 'hr ticket'
+    - title: HRBP 
+      payload: 'hrbp'
+    - titile: Facilities
+      payload: 'facilities'
+    - title: L&D 
+      payload: 'L&D Ticket'
+    - titile: Finance
+      payload: 'finance'
   utter_click_button:
   - text: Click on the button below to send an email
-  utter_curse_response:
-  - text: I dont appreciate such language. How can i help you?
-    buttons:
-    - title: Restart Conversation
-      payload: /restart
+  utter_letter:
+  - text: For any letter and document [Click Here](https://pep.prolifics.com/declaration/info/active)
+  utter_quick_links:
+  - text: Quick Links
+    buttons: 
+    - title: GitLab 
+      payload: 'http://gitlab.prolifics.com/'
+    - titile: Projector
+      payload: 'https://app.projectorpsa.com/'
+    - title: PPM
+      payload: 'https://ppm.prolifics.com/'
+    - titile: PEP
+      payload: 'https://pep.prolifics.com/'
+    - title: ADP
+      payload: 'https://www.ess.adp.in/ESS4/default.aspx'
   utter_thanks_reply:
   - text: My pleasure!
   utter_goodbye:
   - text: Happy to help! Goodbye
-  utter_lnd_account_lock:
-  - text: Please drop an email to ProU@prolifics.com They will unlock the account
-      and respond to you shortly. Click the button below to send an email
-  utter_lnd_course_status:
-  - text: Please mail to prou@prolifics.com The team will validate and reply to you.
-      Click the button below to send an email
-  utter_lnd_external_trainings:
-  - text: After acquiring approval for the cost of training from the practice director,
-      raise a request to prou@prolifics.com. Please refer the learning engagement
-      policy document on PeP to know more. All external trainings and certifications
-      should be updated in the ELMS within 1 month of completion. Click the button
-      below to send an email
-  utter_lnd_thinkhr_course:
-  - text: eLMS automatically updates ThinkHR courses every 48 hrs. Your courses will
-      reflect shortly. If you continue to face issues post that, please write to prou@prolifics.com.
-      Click the button below to send an email
   utter_non_happy:
   - text: I am sorry, I am not sure how to help you with this.
   utter_ask_more:
@@ -90,14 +103,20 @@ templates:
   - text: To be one of the most admired global technology consulting companies, delivering competitive advantage to our clients
   utter_company_mission:
   - text: To be a trusted advisor and provider of high-business value, technology solutions
-  utter_lnd_account_lock_button:
-  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=LMS%20Account%20Lock)'
-  utter_lnd_course_status_button:
-  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=Pending%20Courses)'
-  utter_lnd_thinkhr_course_button:
-  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses)'
-  utter_lnd_external_trainings_button:
-  - text: '[Send Mail](mailto:ProU@prolifics.com?subject=External%20Trainings)'
+  utter_hr_generic_intent:
+  - text: What would you like to know about
+    buttons: 
+    - title: HRHelpdesk 
+      payload: 'HRHelpdesk'
+    - titile: HRBP
+      payload: 'HRBP'
+  utter_learning_development_generic_intent:
+  - text: What would you like to know about
+    buttons: 
+    - title: L&D Ticket 
+      payload: 'L&D Ticket'
+    - titile: ELMS
+      payload: 'ELMS'
   utter_promotion_progression_policy:
   - text: What would you like to know about
     buttons: 
@@ -124,18 +143,6 @@ templates:
       payload: 'pip'
     - title: RACE Awards
       payload: 'race'
-  utter_send_mail_HR_Helpdesk_button:
-  - text: '[Send Mail](mailto:indiaHRHelpdesk@prolifics.com)'
-  utter_send_mail_IT_helpdesk_button:
-  - text: '[Send Mail](mailto:ithelpdesk@prolifics.com)'
-  utter_send_mail_Finance_helpdesk_button:
-  - text: '[Send Mail](mailto:IndiaFinanceHelpdesk@prolifics.com)'
-  utter_send_mail_Facilities_button:
-  - text: '[Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)'
-  utter_send_mail_LnD_Helpdesk_button:
-  - text: '[Send Mail](mailto:L&DHelpDesk@prolifics.com)'
-  utter_send_mail_HRBP_button:
-  - text: '[Send Mail](mailto:hr.bp@prolifics.com)'
   utter_violence_generic_intent:
   - text: What would you like to know about
     buttons: 
@@ -196,18 +203,10 @@ actions:
 - respond_Contract_Employee_Policy
 - respond_Equal_Opportunity_Employment
 - respond_chitchat
+- respond_raise_ticket
 - action_default_fallback
 - utter_which_ticket
 - utter_ask_more
-- action_send_it_email
-- utter_lnd_account_lock
-- utter_lnd_course_status
-- utter_lnd_thinkhr_course
-- utter_lnd_external_trainings
-- utter_lnd_account_lock_button
-- utter_lnd_course_status_button
-- utter_lnd_thinkhr_course_button
-- utter_lnd_external_trainings_button
 - utter_click_button
 - utter_non_happy
 - utter_thanks_reply
@@ -224,9 +223,9 @@ actions:
 - utter_job
 - utter_equal_opportunity
 - utter_promotion_progression_policy
-- utter_send_mail_IT_helpdesk_button
-- utter_send_mail_HR_Helpdesk_button
-- utter_send_mail_Finance_helpdesk_button
-- utter_send_mail_Facilities_button
-- utter_send_mail_LnD_Helpdesk_button
 - utter_send_mail_HRBP_button
+- utter_hr_generic_intent
+- utter_learning_development_generic_intent
+- utter_raise_ticket_generic_intent
+- utter_letter
+- utter_quick_links
