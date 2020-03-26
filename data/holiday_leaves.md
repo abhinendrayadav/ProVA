@@ -12,8 +12,7 @@
 ## intent:holiday_leaves/leave_procedure
 - leave procedure
 - apply leave
-- apply leaves
-
+- leaves
 ## intent:holiday_leaves/lwp_lop
 - lwp
 - lop
@@ -22,9 +21,7 @@
 
 ## intent:holiday_leaves/maternity
 - maternity
-- maternity leave
-- maternity leave policy
-- ML
+- mom
 
  ## intent:holiday_leaves/mtp
 - mtp

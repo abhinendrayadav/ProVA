@@ -21,7 +21,7 @@
 ## intent:gen_policy/buddy
 - buddy
 - buddy policy
-- buddy program
+- Buddy
 
 ## intent:gen_policy/off_lang
 - official language
@@ -30,31 +30,19 @@
 - communication
 - language
 
-## intent:gen_policy/office_timing
-- work timings
-- work timing
-- timing
-- office timing
-
-## intent:gen_policy/work_hours
-- work hours
-
-## intent:gen_policy/shift_allowance
-- shift allowance
-- shift
-- shifts
+## intent:gen_policy/ofc_timing
+- office timings
+- timings
 
 ## intent:gen_policy/attendance
+- Attendance 
 - attendance
 
-## intent:gen_policy/dress_code
+## intent:gen_policy/dcode
 - dress code
+- dcode
 - attire
 - wear
-- dress
-- outfit
-- t shirt
-- shoes
 
 ## intent:gen_policy/hr_helpdesk
 - hrhelpdesk

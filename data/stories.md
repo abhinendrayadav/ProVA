@@ -3,71 +3,6 @@
   - respond_lndFAQ
   - utter_ask_more
 
-## lnd acc lock
-* lnd_account_lock
-  - utter_lnd_account_lock
-  - utter_lnd_account_lock_button
-  - utter_ask_more
-
-## lnd status
-* lnd_course_status
-  - utter_lnd_course_status
-  - utter_lnd_course_status_button
-  - utter_ask_more
-
-## lnd_thinkhr
-* lnd_thinkhr_course
-  - utter_lnd_thinkhr_course
-  - utter_lnd_thinkhr_course_button
-  - utter_ask_more
-
-## ext traininghs
-* lnd_external_trainings
-  - utter_lnd_external_trainings
-  - utter_lnd_external_trainings_button
-  - utter_ask_more
-
-## raise ticket
-* raise_ticket
- - utter_which_ticket
-
-## mail IT with entity extracted
-* raise_IT_ticket
- - utter_click_button
- - utter_send_mail_IT_helpdesk_button
- - utter_ask_more
-
-## mail HR with entity extracted
-* raise_HR_ticket
- - utter_click_button
- - utter_send_mail_HR_Helpdesk_button
- - utter_ask_more
-
-## mail HRBP with entity extracted
-* raise_HRBP_ticket
- - utter_click_button
- - utter_send_mail_HRBP_button
- - utter_ask_more
-
-## mail FACILITES with entity extracted
-* raise_FACILITIES_ticket
- - utter_click_button
- - utter_send_mail_Facilities_button
- - utter_ask_more
-
-## mail LND with entity extracted
-* raise_LND_ticket
- - utter_click_button
- - utter_send_mail_LnD_Helpdesk_button
- - utter_ask_more
-
-
-## mail IT with entity extracted
-* raise_FINANCE_ticket
- - utter_click_button
- - utter_send_mail_Finance_helpdesk_button
- - utter_ask_more
-
 ## thanks 
 * thanks
     - utter_thanks_reply
@@ -75,7 +10,7 @@
 ## outlook
 * outlook_issue
  - utter_click_button
- - action_send_it_email
+ - respond_raise_ticket
  - utter_ask_more
 
 ## bye 
@@ -194,7 +129,7 @@
   - utter_performance
 
 ## respond_Equal_Opportunity_Employment
-* respond_Equal_Opportunity_Employment
+* Equal_Opportunity_Employment
   - respond_Equal_Opportunity_Employment
   - utter_ask_more
 
@@ -209,3 +144,33 @@
 ## chitchat response selector
 * chitchat
   - respond_chitchat
+
+## hr_generic_intent
+* hr_generic_intent
+  - utter_hr_generic_intent
+
+## utter_learning_development_generic_intent
+* learning_development_generic_intent
+  - utter_learning_development_generic_intent
+
+## utter_raise_ticket_generic_intent
+* raise_ticket_generic_intent
+  - utter_raise_ticket_generic_intent
+
+## respond_raise_ticket
+* raise_ticket
+  - respond_raise_ticket
+
+## utter_letter
+* letter
+  - utter_letter
+  - utter_ask_more
+
+## utter_quick_links
+* quick_links
+  - utter_quick_links
+  - utter_ask_more
+
+## job
+* job
+  - utter_job
