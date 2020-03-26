@@ -15,4 +15,4 @@
 - race award
 - appreciate
 - appreciation
-- recognization
+- recognition

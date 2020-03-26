@@ -9,6 +9,7 @@
 - learn hours
 - LMS hours
 - learning hours
+- elms
 
 ## intent:lndFAQ/progression_course
 - career progression course
@@ -24,12 +25,27 @@
 
 ## intent:lndFAQ/learning_plan
 - learning plan check
-- check plan
-- frequent plan
+- learning plan
 
 ## intent:lndFAQ/promotion_criteria
-- promotion
-- progression
-- eligibility promotion
-- promoted
-- eligibility criteria
+- promotion learning criteria
+
+## intent:lndFAQ/lnd_external_trainings
+- external training
+- training process
+
+## intent:lndFAQ/lnd_account_lock
+- LMS lock
+- account lms locked
+- learning account locked
+- prou locked
+- elms locked
+
+## intent:lndFAQ/lnd_course_status
+- courses in progress
+- pending courses
+
+## intent:lndFAQ/lnd_thinkhr_course
+- think hr courses
+- thinkhr
+- think hr

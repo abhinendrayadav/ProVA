@@ -37,3 +37,19 @@
 ## intent:holiday_leaves/paternity_leave
 - paternity leave
 - paternity
+
+## intent:holiday_leaves/leave_accruals 
+- accurals
+- leave accurals
+
+## intent:holiday_leaves/number_of_leaves 
+- number of leaves
+- how many leaves
+
+## intent:holiday_leaves/encashable_leaves 
+- encashable leaves
+- en chashable
+
+## intent:holiday_leaves/non_encashable_leaves 
+- non encashable leaves
+- non encashable
