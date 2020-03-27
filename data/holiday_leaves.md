@@ -42,8 +42,9 @@
 - paternity
 
 ## intent:holiday_leaves/leave_accruals 
-- accurals
-- leave accurals
+- accrual
+- leave accrual
+- accruals
 
 ## intent:holiday_leaves/number_of_leaves 
 - number of leaves

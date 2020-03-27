@@ -9,9 +9,6 @@
 ## intent:Employee_Benefits/mediclaim
 - mediclaim
 - medical claim
-- medical emergency
-- emergency
-- medics
 
 ## intent:Employee_Benefits/extra_work
 - extra work

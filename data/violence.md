@@ -20,6 +20,6 @@
 
 ## intent:violence/drugs
 - drugs
-- alchohol
+- alcohol
 - smoking
 - tobacco

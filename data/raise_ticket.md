@@ -4,11 +4,13 @@
 - ithelpdesk
 - it helpdesk
 - it help desk
+- it ticket
 
 ## intent:raise_ticket/raise_HR_ticket
 - raise a ticket to hrhelpdesk
 - raise a ticket to HR
 - raise a ticket to HR helpdesk
+- hr ticket
 
 ## intent:raise_ticket/raise_HRBP_ticket
 - raise a ticket to hrbphelpdesk
@@ -17,6 +19,7 @@
 - hrbp
 - hrbphelpdesk
 - hrbp helpdesk
+- hrbp ticket
 
 ## intent:raise_ticket/raise_FACILITIES_ticket
 - raise a ticket to facilitieshelpdesk
@@ -24,6 +27,7 @@
 - facilities
 - facilities helpdesk
 - facilities help desk
+- facilities ticket
 
 ## intent:raise_ticket/raise_LND_ticket
 - raise a ticket to lndhelpdesk
@@ -38,3 +42,4 @@
 - financehelpdesk
 - finance helpdesk
 - finance help desk
+- finance ticket

@@ -1,22 +1,10 @@
 intents:
-- greet
 - goodbye
-- raise_IT_ticket
-- raise_HR_ticket
-- raise_HRBP_ticket
-- raise_FACILITIES_ticket
-- raise_LND_ticket
-- raise_FINANCE_ticket
 - thanks
 - concern
-- inform
 - lndFAQ
 - gen_policy
-- lnd_account_lock
 - outlook_issue
-- lnd_course_status
-- lnd_thinkhr_course
-- lnd_external_trainings
 - emp_refer
 - Communication
 - Confidentiality
@@ -205,7 +193,6 @@ actions:
 - respond_chitchat
 - respond_raise_ticket
 - action_default_fallback
-- utter_which_ticket
 - utter_ask_more
 - utter_click_button
 - utter_non_happy
@@ -223,7 +210,6 @@ actions:
 - utter_job
 - utter_equal_opportunity
 - utter_promotion_progression_policy
-- utter_send_mail_HRBP_button
 - utter_hr_generic_intent
 - utter_learning_development_generic_intent
 - utter_raise_ticket_generic_intent
