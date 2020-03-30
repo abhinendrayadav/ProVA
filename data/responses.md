@@ -421,3 +421,59 @@
 ## raise_FINANCE_ticket
 * raise_ticket/raise_FINANCE_ticket
   - Click on the button below to send an email [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
+
+## User_access/user_login
+* User_access/user_login
+  - If you are a new employee and unable to login in ThinkHR, please wait for 48 hours, you will be receiving a welcome email. If you do not receive any email within 48 hours, please reach out fo ProU. If you are a full time employee and unable to login in ThinkHR, reset your password by clicking on Reset password link and you will receive reset password mail within 24 hours. For any other kind of issues, reach out to ProU
+
+## User_access/course_access_issues
+* User_access/course_access_issues
+  - Reach out to ProU for any kind of access issues for the courses in ThinkHR. [Click Here](mailto:ProU@prolifics.com) to send an email to ProU
+
+## User_access/credit_units
+* User_access/credit_units
+  - It will take 7 days to mark the completion of any course on ThinkHR. If it is more than 7 days of completion, take a snapshot of the completion of the course and send it to ProU 
+
+## ELMS/Mandatory_courses
+* ELMS/Mandatory_courses
+  - Mandatory courses for all the employees in Prolifics are 1.Complaince - a) POSH-  once every year b) Compliance pack- twice a year,   2.Corporate Induction  
+
+## ELMS/Total_learning_hours
+* ELMS/Total_learning_hours
+  - Total learning hours can be checked by navigating to : Self->Learner Dasboard-> Quick Links->Training Transcript
+
+## ELMS/Training_transcript_pathway
+* ELMS/Training_transcript_pathway
+  - Training transcript can be found by navigating to :Self->Learner Dasboard-> Quick Links->Training Transcript
+
+## ELMS/Training_schedule
+* ELMS/Training_schedule
+  - Training schedule can be checked by navigating to: Self->Learning->Training Schedule
+
+## ELMS/learning_hours_per_quarter
+* ELMS/learning_hours_per_quarter
+  - You need to have 10 learning hours per quarter
+
+## ELMS/learning_hours_per_year
+* ELMS/learning_hours_per_year
+  - You need to have 40 learning hours per year
+
+## Activity_error/No_activities
+* Activity_error/No_activities
+  - There is no class created for the actvity asked for, please express your interest in ELMS for the same ativity, you will be notified when the activity is scheduled.                          
+
+## Activity_error/Registration_blocked
+* Activity_error/Registration_blocked
+  - See the status of selected activities for more details. If the activity you are trying to register for has been conducted in the past, please look for activity which has present sessions and express interest if you want to attend the session when scheduled. 
+
+## Activity_error/Waiting_registration_list
+* Activity_error/Waiting_registration_list
+  - The minimum participation for this activity has been reached. You will be notified if there are any extra seats or you will be prioritised in the next batch.
+
+## Activity_error/Assessment_errors
+* Activity_error/Assessment_errors
+  - For any of the errors like - 1. Registered but not able to start the assessment,  2.Not able to Re-attempt for the assessment, 3.Incorrect options/Incorrect in formation - reach put to ProU
+
+## Activity_error/Course_stopped
+* Activity_error/Course_stopped
+  - If you have skipped any step in between, please re-register and follow all the steps. If you have not skipped any steps in between, please try taking the course once again, could be a glitch. If you have already tried doing that, please send a screenshot and highlight your observations and send it to ProU                                                                                                                                                                                      

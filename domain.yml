@@ -38,6 +38,10 @@ intents:
 - raise_ticket
 - letter
 - quick_links
+- User_access
+- ELMS
+- Activity_error_generic_intent
+- Activity_error
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -170,6 +174,20 @@ templates:
       payload: 'extra work'
     - title: Meal Vouchers
       payload: 'meal'
+  
+  utter_Activity_error_generic:
+  - text: What kind of activity issues are you facing? 
+    buttons:
+    - title: No activities to register
+      payload: 'No activities to register'
+    - title: Registration blocked
+      payload: 'Registration blocked'
+    - title: Waiting registration
+      payload: 'Waiting registration'
+    - title: Assessment related error
+      payload: 'Assessment related error'
+    - title: Course stopped in between
+      payload: 'Course stopped in between'
 
 actions:
 - respond_lndFAQ
@@ -192,6 +210,9 @@ actions:
 - respond_Equal_Opportunity_Employment
 - respond_chitchat
 - respond_raise_ticket
+- respond_User_access
+- respond_ELMS
+- respond_Activity_error
 - action_default_fallback
 - utter_ask_more
 - utter_click_button
@@ -215,3 +236,4 @@ actions:
 - utter_raise_ticket_generic_intent
 - utter_letter
 - utter_quick_links
+- utter_Activity_error_generic

@@ -90,3 +90,7 @@
 - PPM
 - PEP
 - ADP
+
+## intent:Activity_error_generic_intent
+- Registration error
+- Assessment error
