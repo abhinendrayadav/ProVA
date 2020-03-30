@@ -152,7 +152,7 @@
 
 ## leave procedure
 * holiday_leaves/leave_procedure
-  - You should make a leave request on Leave Management System on HR Portal only. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Please login to [PeP](https://pep.prolifics.com/team/dashboard) to apply leaves. To read the leave policy, you can refer to the handbook. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
 
 ## lwp and lop
 * holiday_leaves/lwp_lop
@@ -256,11 +256,11 @@
 
 ## Provident Funds and ESI
 * Employee_Benefits/pf_esi
-  - Prolifics is a member of the Regional Provident Fund as required by the Indian law. Please refer the below link for more details. [here](https //www.epfindia.gov.in/site_en/)
+  - Prolifics is a member of the Regional Provident Fund as required by the Indian law. Please refer the below link for more details. [Click here](https://www.epfindia.gov.in/site_en/) to know more
 
 ##  Gratuity
 * Employee_Benefits/gratuity
-  - After five years of continuous service, the Company will provide gratuity on termination/ retirement / resignation of the employment. Please refer the below link for more details. http //www.gratuity.org.in/
+  - After five years of continuous service, the Company will provide gratuity on termination/ retirement / resignation of the employment. Please refer the below link for more details. [Click Here](http://www.gratuity.org.in/) to know more
 
 ## Group Mediclaim Policy
 * Employee_Benefits/mediclaim
@@ -420,7 +420,7 @@
 
 ## raise_FINANCE_ticket
 * raise_ticket/raise_FINANCE_ticket
-  - Click on the button below to send an email [Send Mail](mailto:FacilitiesHelpdesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:IndiaFinanceHelpdesk@prolifics.com)
 
 ## User_access/user_login
 * User_access/user_login

@@ -312,7 +312,6 @@
 - good bye
 - good bye rasa bot!
 - good night
-- goodbye
 - goodbye.
 - goodnight
 - gotta go
