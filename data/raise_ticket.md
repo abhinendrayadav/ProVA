@@ -34,6 +34,7 @@
 - raise a ticket to LandD
 - raise a ticket to LnD
 - L&D Ticket
+- lnd ticket
 
 ## intent:raise_ticket/raise_FINANCE_ticket
 - raise a ticket to financehelpdesk

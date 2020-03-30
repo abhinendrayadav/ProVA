@@ -13,6 +13,7 @@
 - I need to create a ticket
 - helpdesk 
 - help desk
+- ticket
 
 ## intent:outlook_issue
 - outlook not working
@@ -40,6 +41,7 @@
 
 ## intent:policy
 - policy
+- policies
 
 ## intent:common_property_intent
 - company property

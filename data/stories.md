@@ -194,3 +194,8 @@
 * Activity_error
   - respond_Activity_error
   - utter_ask_more
+
+## utter_common_property_intent
+* common_property_intent
+  - utter_common_property_intent
+  - utter_ask_more

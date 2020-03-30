@@ -56,7 +56,7 @@ templates:
     - titile: Facilities
       payload: 'facilities'
     - title: L&D 
-      payload: 'L&D Ticket'
+      payload: 'LnD Ticket'
     - titile: Finance
       payload: 'finance'
   utter_click_button:
@@ -106,7 +106,7 @@ templates:
   - text: What would you like to know about
     buttons: 
     - title: L&D Ticket 
-      payload: 'L&D Ticket'
+      payload: 'LnD Ticket'
     - titile: ELMS
       payload: 'ELMS'
   utter_promotion_progression_policy:
@@ -144,8 +144,8 @@ templates:
       payload: 'complaint'
     - title: Code of ethical conduct
       payload: 'ethical conduct'
-    - title: Alchohol/Drugs consumption and smoking
-      payload: 'alchohol'
+    - title: Alcohol/Drugs consumption and smoking
+      payload: 'alcohol'
 
   utter_Performance_Review_generic:
   - text: What would you like to know about

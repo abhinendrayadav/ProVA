@@ -8,6 +8,7 @@
 ## intent:seperation/notice_period
 - notice period
 - last working day
+- lwd
 
 ## intent:seperation/emp_separation
 - separation
@@ -36,3 +37,4 @@
 
 ## intent:seperation/final_settlement
 - full and final settlement
+- settlement
