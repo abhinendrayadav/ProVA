@@ -42,6 +42,7 @@ intents:
 - ELMS
 - Activity_error_generic_intent
 - Activity_error
+- common_property_intent
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -49,33 +50,20 @@ templates:
     buttons: 
     - title: IT HelpDesk 
       payload: 'ithelpdesk'
-    - titile: HR HelpDesk
+    - title: HR HelpDesk
       payload: 'hr ticket'
     - title: HRBP 
       payload: 'hrbp'
-    - titile: Facilities
+    - title: Facilities
       payload: 'facilities'
     - title: L&D 
       payload: 'LnD Ticket'
-    - titile: Finance
+    - title: Finance
       payload: 'finance'
   utter_click_button:
   - text: Click on the button below to send an email
   utter_letter:
   - text: For any letter and document [Click Here](https://pep.prolifics.com/declaration/info/active)
-  utter_quick_links:
-  - text: Quick Links
-    buttons: 
-    - title: GitLab 
-      payload: 'http://gitlab.prolifics.com/'
-    - titile: Projector
-      payload: 'https://app.projectorpsa.com/'
-    - title: PPM
-      payload: 'https://ppm.prolifics.com/'
-    - titile: PEP
-      payload: 'https://pep.prolifics.com/'
-    - title: ADP
-      payload: 'https://www.ess.adp.in/ESS4/default.aspx'
   utter_thanks_reply:
   - text: My pleasure!
   utter_goodbye:
@@ -100,21 +88,21 @@ templates:
     buttons: 
     - title: HRHelpdesk 
       payload: 'HRHelpdesk'
-    - titile: HRBP
+    - title: HRBP
       payload: 'HRBP'
   utter_learning_development_generic_intent:
   - text: What would you like to know about
     buttons: 
     - title: L&D Ticket 
       payload: 'LnD Ticket'
-    - titile: ELMS
+    - title: ELMS
       payload: 'ELMS'
   utter_promotion_progression_policy:
   - text: What would you like to know about
     buttons: 
     - title: Promotion 
       payload: 'promotion'
-    - titile: Progression
+    - title: Progression
       payload: 'progression'
   utter_equal_opportunity:
   - text: Prolifics is an Equal Opportunity Employer. This means that we will extend equal opportunity to all individuals without regard for race, religion, color, sex, national origin, age, differently abled, or veteran’s status. What would you like to know about
@@ -213,6 +201,7 @@ actions:
 - respond_User_access
 - respond_ELMS
 - respond_Activity_error
+- respond_quick_links
 - action_default_fallback
 - utter_ask_more
 - utter_click_button
@@ -235,5 +224,4 @@ actions:
 - utter_learning_development_generic_intent
 - utter_raise_ticket_generic_intent
 - utter_letter
-- utter_quick_links
 - utter_Activity_error_generic

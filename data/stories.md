@@ -168,7 +168,7 @@
 
 ## utter_quick_links
 * quick_links
-  - utter_quick_links
+  - respond_quick_links
   - utter_ask_more
 
 ## job
@@ -188,7 +188,6 @@
 ## Activity_error_generic_intent
 * Activity_error_generic_intent
   - utter_Activity_error_generic
-  - utter_ask_more
 
 ## respond_Activity_error
 * Activity_error

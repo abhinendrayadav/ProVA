@@ -607,7 +607,6 @@
 - Thank's!
 - Thanks bot
 - Thanks for that
-- Thanks!
 - amazing, thanks
 - cheers
 - cheers bro
@@ -629,7 +628,6 @@
 - thanks for the help
 - thanks this is great news
 - thanks you
-- thanks!
 - thankyou
 - thnks
 - thx

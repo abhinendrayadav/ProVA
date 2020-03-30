@@ -84,14 +84,6 @@
 - letters
 - letter
 
-## intent:quick_links
-- links
-- quicklinks
-- GitLab
-- Projector
-- PPM
-- PEP
-- ADP
 
 ## intent:Activity_error_generic_intent
 - Registration error

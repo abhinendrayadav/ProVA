@@ -477,3 +477,26 @@
 ## Activity_error/Course_stopped
 * Activity_error/Course_stopped
   - If you have skipped any step in between, please re-register and follow all the steps. If you have not skipped any steps in between, please try taking the course once again, could be a glitch. If you have already tried doing that, please send a screenshot and highlight your observations and send it to ProU                                                                                                                                                                                      
+## quick_links/links
+* quick_links/links
+  - Quick Links [GitLab](http://gitlab.prolifics.com/) [Projector](https://app.projectorpsa.com/) [PPM](https://ppm.prolifics.com/) [PEP](https://pep.prolifics.com/) [ADP](https://www.ess.adp.in/ESS4/default.aspx)
+
+## quick_links/GitLab
+* quick_links/GitLab
+  - Click [GitLab](http://gitlab.prolifics.com/) to navigate
+
+## quick_links/Projector
+* quick_links/Projector
+  - Click [Projector](https://app.projectorpsa.com/) to navigate
+
+## quick_links/PPM
+* quick_links/PPM
+  - Click [PPM](https://ppm.prolifics.com/) to navigate
+
+## quick_links/PEP
+* quick_links/PEP
+  - Click [PEP](https://pep.prolifics.com/) to navigate
+
+## quick_links/ADP
+* quick_links/ADP
+  - Click [ADP](https://www.ess.adp.in/ESS4/default.aspx) to navigate
