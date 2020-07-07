@@ -10,9 +10,8 @@
 - pip
 - performance improvement plan
 
-## intent:Performance_Review/race
-- race
-- race award
+## intent:Performance_Review/PEP
+- PEP award
 - appreciate
 - appreciation
 - recognition
