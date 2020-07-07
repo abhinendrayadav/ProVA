@@ -52,7 +52,7 @@
 
 ## internship policy
 * gen_policy/internship_policy
-  - Prolifics provides an opportunity to college students and out of college young professionals (not in any job) in the areas of technology, processes and standards to familiarize themselves about different departments in the company. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Prolifics provides an opportunity to college students and out of college young professionals in the areas of technology, processes and standards to familiarize themselves about different departments in the company. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
 
 ## gen_policy/wfh_ooo
 * gen_policy/wfh_ooo
@@ -128,7 +128,7 @@
 
 ## internet based emails
 * common_property/internet_based_emails
-  - Employees should not use any e-mail account other than the corporate account for official communications with external users;  exceptions shall need specific authorization.
+  - Employees should not use any e-mail account other than the corporate account for official communications with external users; exceptions shall need specific authorization.
 
 ## email encryption
 * common_property/email_encryption
@@ -144,7 +144,7 @@
 
 ## public holidays
 * holiday_leaves/public_holidays
-  - Prolifics observes “9” national/festival holidays every calendar year. Please refer the Complete List of Holidays accessible at HR Portal.Employees working in client locations would be following the client holiday calendar.
+  - Prolifics observes “9” national/festival holidays every calendar year. Please refer the Complete List of Holidays accessible at PEP Portal. Employees working in client locations would be following the client holiday calendar.
 
 ## holiday_leaves/leave_policy
 * holiday_leaves/leave_policy
@@ -250,8 +250,8 @@
 * performance/pip
   - Performance Improvement Plans are implemented to address sub-standard job performance and conduct. All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Please reach out to HRBP for further details
 
-## race awards scenario
-* performance/race
+## PEP  awards scenario
+* performance/PEP 
   - Employees are eligible for the Individual Award, Team Award or Individual On-Spot Award on a quarterly basis. For nominations, please reach out to your Supervisor 
 
 ## Provident Funds and ESI
@@ -304,7 +304,7 @@
 
 ## seperation/exit_forms
 * seperation/exit_forms
-  - Employees need to complete identified forms like No-Dues Clearance Form, Knowledge Transfer Form, HR Feedback Form, which are available on the HR Portal. Apart from this employee also needs to give their feedback in their Exit Survey. On their last working day, employees are expected to return all Company-issued property: Laptop, ID card, keys, documents, etc., along with the above stated Forms.
+  - Employees need to complete identified forms like No-Dues Clearance Form, Knowledge Transfer Form, HR Feedback Form, which are available on the PEP Portal. Apart from this employee also needs to give their feedback in their Exit Survey. On their last working day, employees are expected to return all Company-issued property: Laptop, ID card, keys, documents, etc., along with the above stated Forms.
 
 ## seperation/relieving_letter
 * seperation/relieving_letter
@@ -348,19 +348,19 @@
 
 ## Performance_Review/appraisal
 * Performance_Review/appraisal
-  - The Policy covers all full-time and part-time employees who’ve joined on or before 31st March. It is applicable to those employees who have completed 12 months continuous service from the date of joining/ previous appraisal. Please reach to your Project Manager or Supervisor for further details
+  - The Policy covers all full-time employees. Prolifics follows Continuous appraisal process framework - 369 degrees which takes place throughout the year on an ongoing basis as opposed to those based on traditional annual appraisal.  Please reach to your Project Manager or Supervisor for further details
 
 ## Performance_Review/variable
 * Performance_Review/variable
-  - Variable compensation is an annual component. It is paid out half-yearly based on organizational, unit, and individual performance, gross margin and year over year quarterly growth Please reach to your Project Manager or Supervisor for further details
+  - Variable compensation is an annual component. It is paid out quarterly based on organizational, unit, and individual performance, gross margin and year over year quarterly growth Please reach to your Project Manager or Supervisor for further details
 
 ## Performance_Review/pip
 * Performance_Review/pip
   - Performance Improvement Plans are implemented to address sub-standard job performance and conduct. All PIPs will state the specific actions required to correct the problem, the time frame in which they must be completed, and the consequences if the problem persists. Please reach out to HRBP for further details
 
-## Performance_Review/race
-* Performance_Review/race
-  - Employees are eligible for the Individual Award, Team Award or Individual On-Spot Award on a quarterly basis. For nominations, please reach out to your Supervisor
+## Performance_Review/PEP 
+* Performance_Review/PEP 
+  - PEP awards can be in the form of informal recognition - PeP Thanks and Formal recognition - Excellence Awards. Nominations can be made on the relevant application form and submitted by the advertised due date. Please reach out to [HRBP](mailto:hr.bp@prolifics.com) for more details
 
 ## chitchat/ask_builder
 * chitchat/ask_builder

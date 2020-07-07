@@ -105,24 +105,24 @@ templates:
     - title: Progression
       payload: 'progression'
   utter_equal_opportunity:
-  - text: Prolifics is an Equal Opportunity Employer. This means that we will extend equal opportunity to all individuals without regard for race, religion, color, sex, national origin, age, differently abled, or veteran’s status. What would you like to know about
+  - text: Prolifics is an Equal Opportunity Employer. This means that we will extend equal opportunity to all individuals without regard for PEP, religion, colour, sex, national origin, age, differently abled, or veteran’s status. What would you like to know about
     buttons:
     - title: Promotion
       payload: 'promotion'
     - title: Progression
       payload: 'progression'
   utter_job:
-  - text: An employee may be disciplined for poor job performance.However, Prolifics reserves the right to proceed directly to termination without resorting to prior disciplinary steps when deemed appropriate.Except as set forth below, dismissal for poor performance ordinarily will be preceded by a Performance Improvement Plan. Please click on the button below to know more about PIP
+  - text: An employee may be disciplined for poor job performance. However, Prolifics reserves the right to proceed directly to termination without resorting to prior disciplinary steps when deemed appropriate. Except as set forth below, dismissal for poor performance ordinarily will be preceded by a Performance Improvement Plan. Please click on the button below to know more about PIP
     buttons:
     - title: Performance Improvement Plan (PIP)
       payload: 'pip'
   utter_performance:
-  - text: All Prolifics employees will be evaluated at periodic intervals based on his/her job description and not less than annually. Good performance would be rewarded by RACE awards and poor performance would go through a Performance Improvement Plan (PIP). What would you like to know about
+  - text: All Prolifics employees will be evaluated at periodic intervals based on his/her job description and not less than annually. Good performance would be rewarded by PEP awards and poor performance would go through a Performance Improvement Plan (PIP). What would you like to know about
     buttons:
     - title: Performance Improvement Plan (PIP)
       payload: 'pip'
-    - title: RACE Awards
-      payload: 'race'
+    - title: PEP Awards
+      payload: 'PEP'
   utter_violence_generic_intent:
   - text: What would you like to know about
     buttons: 
@@ -146,8 +146,8 @@ templates:
       payload: 'variable'
     - title: Performance Improvement Plan (PIP)
       payload: 'pip'
-    - title: RACE Awards
-      payload: 'race'
+    - title: PEP Awards
+      payload: 'PEP'
     
   utter_Employee_Benefits_generic:
   - text: What would you like to know about
