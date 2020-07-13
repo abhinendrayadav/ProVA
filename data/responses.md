@@ -88,7 +88,7 @@
 
 ## lndFAQ/lnd_external_trainings
 * lndFAQ/lnd_external_trainings
-  - After acquiring approval for the cost of training from the practice director, raise a request to prou@prolifics.com. Please refer the learning engagement policy document on PeP to know more. All external trainings and certifications should be updated in the ELMS within 1 month of completion. [Click Here](mailto:ProU@prolifics.com?subject=External%20Trainings) to send an email
+  - After acquiring approval for training/certification from the practice director (including cost involved, if any), raise a request to prou@prolifics.com. Please refer the Certification Training Reimbursement Guideline on PeP to know more. All external trainings and certifications should be updated in the ELMS within 1 month of completion. [Click Here](mailto:ProU@prolifics.com?subject=External%20Trainings) to send an email
 
 ## lndFAQ/lnd_account_lock
 * lndFAQ/lnd_account_lock
@@ -96,7 +96,8 @@
 
 ## lndFAQ/lnd_course_status
 * lndFAQ/lnd_course_status
-  - Please mail to prou@prolifics.com The team will validate and reply to you. [Click Here](mailto:ProU@prolifics.com?subject=Pending%20Courses) to send an email
+  - Is it more than three days since completion? Please mail to prou@prolifics.com The team will validate and reply to you. [Click Here](mailto:ProU@prolifics.com?subject=Pending%20Courses) to send an email.
+
 
 ## lndFAQ/lnd_thinkhr_course
 * lndFAQ/lnd_thinkhr_course
@@ -416,7 +417,7 @@
 
 ## raise_LND_ticket
 * raise_ticket/raise_LND_ticket
-  - Click on the button below to send an email [Send Mail](mailto:L&DHelpDesk@prolifics.com)
+  - Click on the button below to send an email [Send Mail](mailto:Prou@prolifics.com)
 
 ## raise_FINANCE_ticket
 * raise_ticket/raise_FINANCE_ticket
@@ -424,7 +425,8 @@
 
 ## User_access/user_login
 * User_access/user_login
-  - If you are a new employee and unable to login in ThinkHR, please wait for 48 hours, you will be receiving a welcome email. If you do not receive any email within 48 hours, please reach out fo ProU. If you are a full time employee and unable to login in ThinkHR, reset your password by clicking on Reset password link and you will receive reset password mail within 24 hours. For any other kind of issues, reach out to ProU
+  - If you are a new employee and unable to login in ThinkHR, please wait for 48 hours, you will receive a welcome email. If you do not receive any email within 48 hours, please reach out to ProU. If you are an existing employee and unable to login in ThinkHR, reset your password by clicking on Reset password link. If the issue persists, reach out to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email.
+
 
 ## User_access/course_access_issues
 * User_access/course_access_issues
@@ -452,15 +454,15 @@
 
 ## ELMS/learning_hours_per_quarter
 * ELMS/learning_hours_per_quarter
-  - You need to have 10 learning hours per quarter
+  - Every Prolifican is encouraged to maintain a minimum of 10 learning hours per quarter
 
 ## ELMS/learning_hours_per_year
 * ELMS/learning_hours_per_year
-  - You need to have 40 learning hours per year
+  - Every Prolifican is encouraged to maintain a minimum of 40 learning hours per year
 
 ## Activity_error/No_activities
 * Activity_error/No_activities
-  - There is no class created for the actvity asked for, please express your interest in ELMS for the same ativity, you will be notified when the activity is scheduled.                          
+  - Are you trying to register to an Instructor-led (ILT) course? It seems future classes are not yet planned for this course. Please click on express interest for the activity and you will be notified when the activity is next scheduled                          
 
 ## Activity_error/Registration_blocked
 * Activity_error/Registration_blocked
@@ -472,11 +474,13 @@
 
 ## Activity_error/Assessment_errors
 * Activity_error/Assessment_errors
-  - For any of the errors like - 1. Registered but not able to start the assessment,  2.Not able to Re-attempt for the assessment, 3.Incorrect options/Incorrect in formation - reach put to ProU
+  - Please reach out to ProU if you face any of the following errors: 1. Registered but not able to start the assessment, 2. Not able to Re-attempt for the assessment, 3. Incorrect options/Incorrect information
+
 
 ## Activity_error/Course_stopped
 * Activity_error/Course_stopped
-  - If you have skipped any step in between, please re-register and follow all the steps. If you have not skipped any steps in between, please try taking the course once again, could be a glitch. If you have already tried doing that, please send a screenshot and highlight your observations and send it to ProU                                                                                                                                                                                      
+  - Please check the following:1. Do you have a good network connection, 2. Have you completed all intermittent steps in the course. If not, please re-register and complete the course. 3. if non of the above, please send the error screenshot to ProU."
+                                                                                                                                                                                      
 ## quick_links/links
 * quick_links/links
   - Quick Links [GitLab](http://gitlab.prolifics.com/) [Projector](https://app.projectorpsa.com/) [PPM](https://ppm.prolifics.com/) [PEP](https://pep.prolifics.com/) [ADP](https://www.ess.adp.in/ESS4/default.aspx)
