@@ -198,3 +198,36 @@
 * common_property_intent
   - utter_common_property_intent
   - utter_ask_more
+
+## utter_absentAfterSubmit
+* absentAfterSubmit
+ - utter_absentAfterSubmit
+ - utter_ask_more
+
+## utter_udemyCredentials
+* udemyCredentials
+  - utter_udemyCredentials
+
+## utter_udemyCredentials===yes scenario
+* udemy_yes
+  - utter_udemy_yes
+  - utter_ask_more
+
+## utter_udemyCredentials===no scenario
+* udemy_no
+  - utter_udemy_no
+  - utter_ask_more
+
+## utter_externalTrainingOrCertificateUpload
+* externalTrainingOrCertificateUpload
+  - utter_externalTrainingOrCertificateUpload
+  - utter_ask_more
+
+## utter_addressProofVerification
+* addressProofVerification
+  - utter_addressProofVerification
+  - utter_ask_more
+
+## udemyCourse
+* udemyCourse
+  - utter_udemyCredentials

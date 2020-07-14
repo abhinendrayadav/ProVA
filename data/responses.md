@@ -8,7 +8,7 @@
 
 ## id badges
 * gen_policy/id_badges
-  - All employees are required to wear your identification badge, in clear view, at all times while in office. If an employee loses the identification badge Rs.250/- needs to be paid for getting a new one
+  - To know the status of your ID card or any information on it you can reach to [Facilities](mailto:Facilities@prolifics.com)
 
 ## records
 * gen_policy/records
@@ -16,7 +16,7 @@
 
 ## buddy policy
 * gen_policy/buddy
-  - The Buddy will Introduce the new joiner to co-workers and other key people in the department/unit. Coordinate with immediate supervisor to ensure briefing is done on Vision, Mission, achievement of Organization, work procedures, ongoing projects etc. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - If you have any concerns on Change of Buddy or anything specific to chat you can reach to [HRBP](mailto:Hr.bp@prolifics.com)
 
 ## official language
 * gen_policy/off_lang
@@ -24,7 +24,7 @@
 
 ## ofiice timings
 * gen_policy/office_timing
-  - 9:00 am to 6:00 pm. Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window
+  - We have flexible work window which one can opt, that requires a ticket with your supervisor approval with specific work time you prefer to [Helpdesk](mailto:indiaHRHelpdesk@prolifics.com)
 
 ## shift allowance
 * gen_policy/shift_allowance
@@ -52,7 +52,7 @@
 
 ## internship policy
 * gen_policy/internship_policy
-  - Prolifics provides an opportunity to college students and out of college young professionals in the areas of technology, processes and standards to familiarize themselves about different departments in the company. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - You can share Resume with [India HR](mailto:IndiaHR@prolfiics.com) with Practice head approval to consider in Practice 
 
 ## gen_policy/wfh_ooo
 * gen_policy/wfh_ooo
@@ -157,11 +157,11 @@
 
 ## lwp and lop
 * holiday_leaves/lwp_lop
-  - If an employee requires leave but does not have sufficient leave balance, his/her first level manager may sanction LWP up to fourteen days. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - You should make a leave or WFH request on Leave Management System in PEP and it needs to be approved by your supervisor within 7 days
 
 ## maternity leave
 * holiday_leaves/maternity
-  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the 12 \months immediately preceding the date of her expected delivery. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Maternity leave (ML) is applicable to all married female employees of Prolifics who have worked for a minimum of 160 days in the 12 months immediately preceding the date of her expected delivery. You need to apply ML/PL in PEP and get it approved by two levels of supervisor for HR final approval  
 
 ## mpt
 * holiday_leaves/mtp
@@ -173,7 +173,7 @@
 
 ## paternity leave
 * holiday_leaves/paternity_leave
-  - Employee will be eligible for Paternity Leave of 3 days during expected or actual delivery period of the baby. It has to be availed within 10 days of the birth of the child and in one stretch without any break
+  - Employee will be eligible for Paternity Leave of 3 days during expected or actual delivery period of the baby. It has to be availed within 10 days of the birth of the child and in one stretch without any break. You need to apply ML/PL in PEP and get it approved by two levels of supervisor for HR final approval 
 
 ## holiday_leaves/leave_accruals
 * holiday_leaves/leave_accruals
@@ -213,7 +213,7 @@
 
 ## refer_policy
 * emp_refer/refer_policy
-  - The purpose of this policy is to recognize and reward employee's contribution in attracting new talent to the organization. All Open positions advertised internally are eligible for the Employee Referral Scheme. Employees should E-mail the resume to the Recruitment Team with a note indicating the referral person name, the open position and date of the referral
+  - You can share resume with [Hiring](Hiring@prolifics.com)
 
 ## emp_refer/refer_fee
 * emp_refer/refer_fee
@@ -503,4 +503,28 @@
 
 ## quick_links/ADP
 * quick_links/ADP
-  - Click [ADP](https://www.ess.adp.in/ESS4/default.aspx) to navigate
+ - ADP is the payroll vendor, who process your payroll, you will get ADP login credentials on 5th of succeeding payroll month. Click [ADP](https://www.ess.adp.in/ESS4/default.aspx) to navigate
+
+## IBM_Partnerwrold/create_IBM_id
+* IBM_Partnerwrold/create_IBM_id
+ - Step 1. Thank you for volunteering for IBM access. Step 2. To sign up for IBM account, please use the [link](https://www.ibm.com/account/reg/in-en/signup?formid=urx-19776&target=https%3A//myibm.ibm.com/)  Step 3. Once done drop an email to enablement@prolifics.com
+
+ ## IBM_Partnerwrold/my_IBM_id
+ * IBM_Partnerwrold/my_IBM_id
+  - Step - 1. To check your IBM Id, please enter Prolifics email id as IBM ID i.e. Firstname.Lastname@prolifics.com Step - 2. If you are unable to login,sign up in PW portal. IBM Sign-up [link](https://www.ibm.com/account/reg/in-en/signup?formid=urx-19776&target=https%3A//myibm.ibm.com/) Step 3. Once done drop an email to enablement@prolifics.com
+
+## IBM_Partnerwrold/register_IBM_certificate
+* IBM_Partnerwrold/register_IBM_certificate
+ - Step - 1. To check your IBM Id, please enter prolifics email id as IBM ID i.e. Firstname.Lastname@prolifics.com Step - 2. If you are unable to login with it,sign up in PW portal  and ask to confirm once done. Step - 3. Drop an email to enablement@prolifics.com for certificate link 
+
+## IBM_Partnerwrold/IBM_as_partnet_for_SPVC
+* IBM_Partnerwrold/IBM_as_partnet_for_SPVC
+ - Drop an email to enablement@prolifics.com to get the course access
+
+## IBM_Partnerwrold/courseLink
+* IBM_Partnerwrold/courseLink
+- If you have IBM ID, please share the certificate or course name. If not then, please create an IBM ID using sign up link.
+
+## IBM_Partnerwrold/reimburement
+* IBM_Partnerwrold/reimburement
+ - Step -1. Check out pep portal Prou Docs certification Training Reimbursement Guidelines policy document available on Pep portal home page. Step-2. For any further queries drop an email to enablement@prolifics.com.

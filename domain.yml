@@ -43,6 +43,13 @@ intents:
 - Activity_error_generic_intent
 - Activity_error
 - common_property_intent
+- absentAfterSubmit
+- udemyCredentials
+- externalTrainingOrCertificateUpload
+- addressProofVerification
+- udemyCourse
+- udemy_yes
+- udemy_no
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -83,6 +90,8 @@ templates:
   - text: To be one of the most admired global technology consulting companies, delivering competitive advantage to our clients
   utter_company_mission:
   - text: To be a trusted advisor and provider of high-business value, technology solutions
+  utter_absentAfterSubmit:
+  - text: If your calendar request (leave or WFH) approved, system will take one day to waive off absent marked and it will not be consider as LOP 
   utter_hr_generic_intent:
   - text: What would you like to know about
     buttons: 
@@ -176,6 +185,27 @@ templates:
       payload: 'Assessment related error'
     - title: Course stopped in between
       payload: 'Course stopped in between'
+  
+  utter_udemyCredentials:
+  - text: Do you have the practice head approval with business justification? 
+    buttons:
+    - title: Yes
+      payload: '/udemy_yes'
+    - title: No
+      payload: '/udemy_no'
+
+  utter_udemy_yes:
+  - text: Please drop an email to prou@prolifics.com asking login credentials with approval mail.
+  
+  utter_udemy_no:
+  - text: Please take  pre-approval, share with prou@prolifics.com and ask for credentials
+
+  utter_externalTrainingOrCertificateUpload:
+  - text: "Step - 1. Please raise a request on LMS. Follow the below steps : Login to LMS ->Self->Learning ->Training Requests\nStep - 2. If you want to add any further information, drop an email to enablement@prolifics.com"
+
+  utter_addressProofVerification:
+  - text: "You can get your address proof on the address verified and updated in PEP only.\nIf it’s the same address, you can write to indiahrhelpdesk@prolifics.com\nIf its different address, you can share your address details helpdesk, team can verify the details and can share within 3 business days from ticket raised."
+
 
 actions:
 - respond_lndFAQ
@@ -225,3 +255,9 @@ actions:
 - utter_raise_ticket_generic_intent
 - utter_letter
 - utter_Activity_error_generic
+- utter_absentAfterSubmit
+- utter_udemyCredentials
+- utter_udemy_yes
+- utter_udemy_no
+- utter_externalTrainingOrCertificateUpload
+- utter_addressProofVerification

@@ -84,7 +84,25 @@
 - letters
 - letter
 
-
 ## intent:Activity_error_generic_intent
 - Registration error
 - Assessment error
+
+## intent:absentAfterSubmit
+- absent marked even after WFH 
+- absent marked even after leave approved
+
+## intent:udemyCredentials
+- udemy credentials
+- udemy password
+- udemy pwd
+
+## intent:externalTrainingOrCertificateUpload
+- upload certificate in LMS
+- update external training hours in LMS
+
+## intent:addressProofVerification
+- address proof
+
+## intent:udemyCourse
+- available in udemy
