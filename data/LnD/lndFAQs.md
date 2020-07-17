@@ -25,6 +25,7 @@
 ## intent:lndFAQ/learning_plan
 - learning plan check
 - learning plan
+- learning development plan
 
 ## intent:lndFAQ/promotion_criteria
 - promotion learning criteria

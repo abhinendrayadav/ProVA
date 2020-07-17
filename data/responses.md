@@ -76,11 +76,11 @@
 
 ## progression course
 * lndFAQ/progression_course
-  - The system will check the band, course completion of the employee, and suggest the CDP. Please reach out to your Supervisor to know further
+  - Please refer to the [Career Progression](https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf) document below for details
 
 ## mandatory trainings
 * lndFAQ/mandatory_trainings
-  - You need to complete Infosec Awareness every 6 months; appropriate workplace harassment course every year, GDPR. Please refer to the Career Progression document below for details: https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf
+  - Please refer to the Career Progression document below for details: https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf
 
 ## idp
 * lndFAQ/IDP
@@ -92,7 +92,7 @@
 
 ## promotion criteria
 * lndFAQ/promotion_criteria
-  - Each employee needs to be compliant with all learning requirements as specified by Prolifics policies, client mandates and Government laws. Please reach out to your Supervisor to know further
+  - Please refer to the [Career Progression](https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf) document below for details
 
 ## lndFAQ/lnd_external_trainings
 * lndFAQ/lnd_external_trainings
@@ -104,7 +104,7 @@
 
 ## lndFAQ/lnd_course_status
 * lndFAQ/lnd_course_status
-  - Is it more than three days since completion? Please mail to prou@prolifics.com The team will validate and reply to you. [Click Here](mailto:ProU@prolifics.com?subject=Pending%20Courses) to send an email.
+  - Is it more than three days since completion? Please mail to prou@prolifics.com The team will validate and reply to you. [Click Here](mailto:ProU@prolifics.com?subject=Pending%20Courses) to send an email
 
 
 ## lndFAQ/lnd_thinkhr_course
@@ -433,24 +433,19 @@
 
 ## User_access/user_login
 * User_access/user_login
-  - If you are a new employee and unable to login in ThinkHR, please wait for 48 hours, you will receive a welcome email. If you do not receive any email within 48 hours, please reach out to ProU. If you are an existing employee and unable to login in ThinkHR, reset your password by clicking on Reset password link. If the issue persists, reach out to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email.
-
+  - If you are a new employee and unable to login in ThinkHR, please wait for 48 hours, you will receive a welcome email. If you do not receive any email within 48 hours, please reach out to ProU. If you are an existing employee and unable to login in ThinkHR, reset your password by clicking on Reset password link. If the issue persists, reach out to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email
 
 ## User_access/course_access_issues
 * User_access/course_access_issues
   - Reach out to ProU for any kind of access issues for the courses in ThinkHR. [Click Here](mailto:ProU@prolifics.com) to send an email to ProU
 
-## User_access/credit_units
-* User_access/credit_units
-  - It will take 7 days to mark the completion of any course on ThinkHR. If it is more than 7 days of completion, take a snapshot of the completion of the course and send it to ProU 
-
 ## ELMS/Mandatory_courses
 * ELMS/Mandatory_courses
-  - Mandatory courses for all the employees in Prolifics are 1.Complaince - a) POSH-  once every year b) Compliance pack- twice a year,   2.Corporate Induction  
+  - Mandatory courses are assigned by ProU. These can be checked by navigating to: Self>>Learning>>Training Analysis. Alternatively, please refer to the [Career Progression](https://pep.prolifics.com/dms/hr/hrpolicies/program_document_-_career_progression_plans_18-19.pdf) document below for details
 
 ## ELMS/Total_learning_hours
 * ELMS/Total_learning_hours
-  - Total learning hours can be checked by navigating to : Self->Learner Dasboard-> Quick Links->Training Transcript
+  - Total learning hours can be checked in LMS by navigating to : Self>>Learner Dashboard>> Quick Links>>Training Transcript
 
 ## ELMS/Training_transcript_pathway
 * ELMS/Training_transcript_pathway
@@ -483,7 +478,6 @@
 ## Activity_error/Assessment_errors
 * Activity_error/Assessment_errors
   - Please reach out to ProU if you face any of the following errors: 1. Registered but not able to start the assessment, 2. Not able to Re-attempt for the assessment, 3. Incorrect options/Incorrect information
-
 
 ## Activity_error/Course_stopped
 * Activity_error/Course_stopped

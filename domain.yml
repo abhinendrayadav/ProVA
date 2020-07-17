@@ -50,7 +50,10 @@ intents:
 - udemyCourse
 - udemy_yes
 - udemy_no
+- credit_unit_lms
+- credit_unit_pep
 - IBM_Partnerwrold
+- User_access_credit_units
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -107,6 +110,8 @@ templates:
       payload: 'LnD Ticket'
     - title: ELMS
       payload: 'ELMS'
+    - title: Policies
+      payload: 'Policies'
   utter_promotion_progression_policy:
   - text: What would you like to know about
     buttons: 
@@ -195,6 +200,14 @@ templates:
     - title: No
       payload: '/udemy_no'
 
+  utter_User_access_credit_units:
+    - text: Which credit as you referring to?
+      buttons:
+      - title: LMS
+        payload: '/credit_unit_lms'
+      - title: PeP
+        payload: '/credit_unit_pep'
+
   utter_udemy_yes:
   - text: Please drop an email to prou@prolifics.com asking login credentials with approval mail.
   
@@ -207,6 +220,11 @@ templates:
   utter_addressProofVerification:
   - text: "You can get your address proof on the address verified and updated in PEP only.\nIf it’s the same address, you can write to indiahrhelpdesk@prolifics.com\nIf its different address, you can share your address details helpdesk, team can verify the details and can share within 3 business days from ticket raised."
 
+  utter_credit_unit_lms:
+  - text: If it has been more than 7 days, please take a screenshot of course completion and send it to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email
+
+  utter_credit_unit_pep:
+  - text: If it has been more than 15 days, please take a screenshot of course completion and send it to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email
 
 actions:
 - respond_lndFAQ
@@ -263,3 +281,6 @@ actions:
 - utter_udemy_no
 - utter_externalTrainingOrCertificateUpload
 - utter_addressProofVerification
+- utter_User_access_credit_units
+- utter_credit_unit_lms
+- utter_credit_unit_pep

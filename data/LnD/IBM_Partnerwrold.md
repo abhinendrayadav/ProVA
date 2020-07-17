@@ -14,6 +14,8 @@
 - ibm certificate register
 - ibm certificate registration
 - ibm certification registration
+- how to register for ibm certification
+- register for ibm certification
 
 ## intent:IBM_Partnerwrold/IBM_as_partnet_for_SPVC
 - Unable to see IBM as a partner for SPVC course

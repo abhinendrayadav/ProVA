@@ -10,8 +10,3 @@
 - course access error
 - course access problem
 
-## intent:User_access/credit_units
-- credits
-- credit units
-- credit units not reflecting
-- credit units not displayed

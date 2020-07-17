@@ -235,3 +235,15 @@
 ## IBM_Partnerwrold
 * IBM_Partnerwrold
   - respond_IBM_Partnerwrold
+
+## utter_User_access_credit_units
+* User_access_credit_units
+  - utter_User_access_credit_units
+
+## credit_unit_lms
+* credit_unit_lms
+  - utter_credit_unit_lms
+
+## utter_credit_unit_pep
+* credit_unit_pep
+  - utter_credit_unit_pep

@@ -108,3 +108,9 @@
 
 ## intent:udemyCourse
 - available in udemy
+
+## intent:User_access_credit_units
+- credits
+- credit units
+- credit units not reflecting
+- credit units not displayed
