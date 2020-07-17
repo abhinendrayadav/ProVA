@@ -231,3 +231,7 @@
 ## udemyCourse
 * udemyCourse
   - utter_udemyCredentials
+
+## IBM_Partnerwrold
+* IBM_Partnerwrold
+  - respond_IBM_Partnerwrold

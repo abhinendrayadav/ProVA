@@ -50,6 +50,7 @@ intents:
 - udemyCourse
 - udemy_yes
 - udemy_no
+- IBM_Partnerwrold
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -232,6 +233,7 @@ actions:
 - respond_ELMS
 - respond_Activity_error
 - respond_quick_links
+- respond_IBM_Partnerwrold
 - action_default_fallback
 - utter_ask_more
 - utter_click_button
