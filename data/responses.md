@@ -4,19 +4,27 @@
 
 ## background
 * gen_policy/bgv_policy
-  - Any candidate who provides misleading, erroneous or willfully deceptive information to the company on the documentation/ information submitted to HR like resume, employment forms, and BGV forms will be eliminated from further consideration for employment with Prolifics with immediate effect. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Any candidate who provides misleading, erroneous or willfully deceptive information to the company on the documentation/ information submitted to HR like resume, employment forms, and BGV forms will be eliminated from further consideration for employment with Prolifics with immediate effect. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## id badges
 * gen_policy/id_badges
-  - To know the status of your ID card or any information on it you can reach to [Facilities](mailto:Facilities@prolifics.com)
+  - All employees are required to wear your identification badge, in clear view, at all times while in office. If an employee loses the identification badge Rs.250/- needs to be paid for getting a new one. To apply for new ID card, you can write to [Facilities](mailto:Facilities@prolifics.com)
+
+## id_badges_status
+* gen_policy/id_badges_status
+ - To know the status of your ID card or any information on it you can reach to [Facilities](mailto:Facilities@prolifics.com)
 
 ## records
 * gen_policy/records
-  - Prolifics will maintain employee personal records, as required by law and deemed essential for efficient operations. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Prolifics will maintain employee personal records, as required by law and deemed essential for efficient operations. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## buddy policy
 * gen_policy/buddy
-  - If you have any concerns on Change of Buddy or anything specific to chat you can reach to [HRBP](mailto:Hr.bp@prolifics.com)
+  - The Buddy will introduce the new joiner to co-workers and other key people in the department/unit. Coordinate with immediate supervisor to ensure briefing is done on Vision, Mission, achievement of Organization, work procedures, ongoing projects etc. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
+
+## gen_policy/change_buddy
+* gen_policy/change_buddy
+ - If you have any concerns on Change of Buddy or anything specific to chat you can reach to [HRBP](Hr.bp@prolifics.com)
 
 ## official language
 * gen_policy/off_lang
@@ -36,23 +44,23 @@
 
 ## attendace
 * gen_policy/attendance
-  - Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Prolifics observes a five-day week; Saturdays and Sundays being weekly off for employees, which may vary based on work window. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## dress code
 * gen_policy/dress_code
-  - As an employee of Prolifics, we expect you to present a clean and professional appearance when you represent us, whether in, or outside the office. Management, sales personnel and those employees, who come in contact with our customers, vendors, investors, etc., are expected to dress in accepted corporate tradition. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - As an employee of Prolifics, we expect you to present a clean and professional appearance when you represent us, whether in, or outside the office. Management, sales personnel and those employees, who come in contact with our customers, vendors, investors, etc., are expected to dress in accepted corporate tradition. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## hr helpdesk
 * gen_policy/hr_helpdesk
-  - HR Help Desk serves as a single point of contact between the employee and the HR department for listening and resolving employee related issues like – Leaves & Attendance, Reimbursement Processing, Compensation & Benefits including Statutory Benefits, Loans & Advances and Employee Support. You just need to raise a ticket to Indiahrhelpdesk@prolifics.com and get your queries answered on time. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - HR Help Desk serves as a single point of contact between the employee and the HR department for listening and resolving employee related issues like – Leaves & Attendance, Reimbursement Processing, Compensation & Benefits including Statutory Benefits, Loans & Advances and Employee Support. You just need to raise a ticket to Indiahrhelpdesk@prolifics.com and get your queries answered on time. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## probation policy
 * gen_policy/probation_policy
-  - For new Joiners, there will be probation for a period of 3 months, extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - For new Joiners, there will be probation for a period of 3 months, extendable based on performance at the discretion of the reporting manager but not exceeding 6 months tenure. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## internship policy
 * gen_policy/internship_policy
-  - You can share Resume with [India HR](mailto:IndiaHR@prolfiics.com) with Practice head approval to consider in Practice 
+  - Prolifics provides an opportunity to college students and out of college young professionals in the areas of technology, processes and standards to familiarize themselves about different departments in the company. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## gen_policy/wfh_ooo
 * gen_policy/wfh_ooo
@@ -121,7 +129,7 @@
 
 ## email policy
 * common_property/email_policy
-  - Email is to be used for Company business only. Company’s confidential information must not be shared outside of the Company, without proper authorization, at any time. You are also not to conduct personal business using the Company computer or email. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Email is to be used for Company business only. Company’s confidential information must not be shared outside of the Company, without proper authorization, at any time. You are also not to conduct personal business using the Company computer or email. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## remote email policy
 * common_property/remote_email_policy
@@ -149,11 +157,11 @@
 
 ## holiday_leaves/leave_policy
 * holiday_leaves/leave_policy
-  - Leave Policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, and on the payroll of Prolifics, Offshore. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Leave Policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, and on the payroll of Prolifics, Offshore. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## leave procedure
 * holiday_leaves/leave_procedure
-  - Please login to [PeP](https://pep.prolifics.com/team/dashboard) to apply leaves. To read the leave policy, you can refer to the handbook. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Please login to [PeP](https://pep.prolifics.com/team/dashboard) to apply leaves. To read the leave policy, you can refer to the handbook. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## lwp and lop
 * holiday_leaves/lwp_lop
@@ -169,7 +177,7 @@
 
 ## adoption leave
 * holiday_leaves/adoption_leave
-  - All employees of Prolifics who have legally adopted a child and having worked for a minimum of 80 days in the preceding 12-month period will be eligible for Special Leave. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - All employees of Prolifics who have legally adopted a child and having worked for a minimum of 80 days in the preceding 12-month period will be eligible for Special Leave. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## paternity leave
 * holiday_leaves/paternity_leave
@@ -177,7 +185,7 @@
 
 ## holiday_leaves/leave_accruals
 * holiday_leaves/leave_accruals
-  - Leaves will be calculated on a financial year basis but credited on quarterly basis i.e. 1st Jan, 1st Apr, 1st Jul and 1st Oct of every year. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Leaves will be calculated on a financial year basis but credited on quarterly basis i.e. 1st Jan, 1st Apr, 1st Jul and 1st Oct of every year. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## holiday_leaves/number_of_leaves
 * holiday_leaves/number_of_leaves
@@ -213,7 +221,7 @@
 
 ## refer_policy
 * emp_refer/refer_policy
-  - You can share resume with [Hiring](Hiring@prolifics.com)
+  - You can share resume with [Hiring](Hiring@prolifics.com) with Practice head approval to consider in Practice
 
 ## emp_refer/refer_fee
 * emp_refer/refer_fee
@@ -293,7 +301,7 @@
 
 ## Disciplinary Action
 * seperation/disciplinary
-  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources. Progressive discipline or corrective action may not be imposed in situations involving serious misconduct, which may result in immediate separation. To know about possible reasons for disciplinary action: [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Disciplinary or corrective action for unsatisfactory job performance or misconduct is normally imposed on a progressive basis and in consultation with a representation of the division of Human Resources. Progressive discipline or corrective action may not be imposed in situations involving serious misconduct, which may result in immediate separation. To know about possible reasons for disciplinary action: [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Gardening Leave
 * seperation/gardening
@@ -317,7 +325,7 @@
 
 ## Basic_Rule_Of_Conduct/conflict_of_interest
 * Basic_Rule_Of_Conduct/conflict_of_interest
-  - Prolifics recognizes that its employees are talented individuals, and that some may engage in other employment outside of their regular working hours with the Company. However, because the work may be in direct competition with the Company and may compromise the Company's interests, employees who engage in outside work must describe the outside work to their manager for approval before doing such work. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Prolifics recognizes that its employees are talented individuals, and that some may engage in other employment outside of their regular working hours with the Company. However, because the work may be in direct competition with the Company and may compromise the Company's interests, employees who engage in outside work must describe the outside work to their manager for approval before doing such work. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Whistleblower_Policy/whistleblower
 * Whistleblower_Policy/whistleblower
@@ -325,11 +333,11 @@
 
 ## Contract_Employee_Policy/contract_emp
 * Contract_Employee_Policy/contract_emp
-  - Contract employees should follow the organization policies and procedures mentioned in the Employee Handbook. Joining and exit process should be same as full time employees.Compensation will be paid as per the terms mentioned in contract agreement. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - Contract employees should follow the organization policies and procedures mentioned in the Employee Handbook. Joining and exit process should be same as full time employees.Compensation will be paid as per the terms mentioned in contract agreement. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Equal_Opportunity_Employment/promotion_policy
 * Equal_Opportunity_Employment/promotion_policy
-  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Equal_Opportunity_Employment/promotion_parameters
 * Equal_Opportunity_Employment/promotion_parameters
@@ -337,7 +345,7 @@
 
 ## Equal_Opportunity_Employment/progression_policy
 * Equal_Opportunity_Employment/progression_policy
-  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - This policy shall be applicable to all regular employees on the rolls of the company including those who are out on deputation to some other organization, on the payroll of Prolifics Corporation Ltd, India. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Equal_Opportunity_Employment/progression_parameters
 * Equal_Opportunity_Employment/progression_parameters
@@ -345,7 +353,7 @@
 
 ## Travel_Policy/travel
 * Travel_Policy/travel
-  - The policy outlines as well describe in detail the policy around expense reimbursement for travelling company personnel. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_final_2017.pdf) to know more
+  - The policy outlines as well describe in detail the policy around expense reimbursement for travelling company personnel. [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf) to know more
 
 ## Performance_Review/appraisal
 * Performance_Review/appraisal

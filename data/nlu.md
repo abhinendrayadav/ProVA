@@ -42,6 +42,8 @@
 ## intent:policy
 - policy
 - policies
+- company policies
+- company policy
 
 ## intent:common_property_intent
 - company property

@@ -19,6 +19,8 @@
 - lop
 - loss of pay
 - leave without pay
+- absent marked
+- absent marked on calendar
 
 ## intent:holiday_leaves/maternity
 - maternity

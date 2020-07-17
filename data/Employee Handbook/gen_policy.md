@@ -14,6 +14,10 @@
 - sez card
 - sez
 
+## intent:gen_policy/id_badges_status
+- ID card status
+- idcard status
+
 ## intent:gen_policy/records
 - personal records
 - records
@@ -22,6 +26,10 @@
 - buddy
 - buddy policy
 - buddy program
+
+## intent:gen_policy/change_buddy
+- change my buddy
+- change of buddy
 
 ## intent:gen_policy/off_lang
 - official language
@@ -35,6 +43,11 @@
 - work timing
 - timing
 - office timing
+- work window
+- i want to change my work window
+- change the work timing
+- how can i change my work timings
+- how can i change my work window
 
 ## intent:gen_policy/work_hours
 - work hours

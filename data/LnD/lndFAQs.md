@@ -15,6 +15,7 @@
 
 ## intent:lndFAQ/mandatory_trainings
 - mandatory training
+- mandatory trainings
 
 ## intent:lndFAQ/IDP
 - idp
