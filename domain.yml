@@ -220,7 +220,7 @@ templates:
     - title: Outlook
       payload: '/outlook_issue'
     - title: PeP
-      payload: 'outlook_issue'
+      payload: '/outlook_issue'
     - title: eLMS
       payload: 'LMS lock'
 
