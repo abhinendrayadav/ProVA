@@ -507,6 +507,10 @@
 * quick_links/ADP
  - ADP is the payroll vendor, who process your payroll, you will get ADP login credentials on 5th of succeeding payroll month. Click [ADP](https://www.ess.adp.in/ESS4/default.aspx) to navigate
 
+## quick_links/LnD
+* quick_links/LnD
+  - Click [eLMS](https://prolifics.sumtotal.host/Broker/Account/Login.aspx?wtrealm=https%3a%2f%2fPROLIFICS.sumtotal.host%2fcore%2f&ReturnUrl=http%3a%2f%2fprolifics.sumtotal.host%2fBroker%2fToken%2fSaml11.ashx%3fwa%3dwsignin1.0%26wtrealm%3dhttps%253a%252f%252fPROLIFICS.sumtotal.host%252fcore%252f%26wreply%3dhttp%253a%252f%252fprolifics.sumtotal.host%252fcore&IsHybridOrNativeClient=False&domainid=52160A28FC58BBBE7D714E075077AC76) to navigate
+
 ## IBM_Partnerwrold/create_IBM_id
 * IBM_Partnerwrold/create_IBM_id
  - Step 1. Thank you for volunteering for IBM access. Step 2. To sign up for IBM account, please use the [link](https://www.ibm.com/account/reg/in-en/signup?formid=urx-19776&target=https%3A//myibm.ibm.com/)  Step 3. Once done drop an email to enablement@prolifics.com

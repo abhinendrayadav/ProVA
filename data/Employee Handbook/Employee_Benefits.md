@@ -21,3 +21,5 @@
 - meal
 - meals
 - meal vouchers
+- sodexo
+- Sodexo

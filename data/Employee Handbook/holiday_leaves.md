@@ -2,12 +2,12 @@
 - public holidays
 - holidays
 - holiday
-- leave
-- leaves
 - calendar
 
 ## intent:holiday_leaves/leave_policy
 - leave policy
+- leave
+- leaves
 
 ## intent:holiday_leaves/leave_procedure
 - leave procedure
@@ -47,6 +47,7 @@
 - accrual
 - leave accrual
 - accruals
+- Leave credit
 
 ## intent:holiday_leaves/number_of_leaves 
 - number of leaves

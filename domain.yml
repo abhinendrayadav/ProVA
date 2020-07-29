@@ -27,6 +27,7 @@ intents:
 - Performance_Review
 - company_vision
 - company_mission
+- core_values
 - violence_generic_intent
 - Employee_Benefits_generic
 - Equal_Opportunity_Employment
@@ -54,6 +55,9 @@ intents:
 - credit_unit_pep
 - IBM_Partnerwrold
 - User_access_credit_units
+- prolifics
+- account_lock
+
 
 templates:
   utter_raise_ticket_generic_intent:
@@ -94,6 +98,8 @@ templates:
   - text: To be one of the most admired global technology consulting companies, delivering competitive advantage to our clients
   utter_company_mission:
   - text: To be a trusted advisor and provider of high-business value, technology solutions
+  utter_core_values:
+  - text: Thought Leadership and Innovation, Customer Centric, Accountability, Trust and Team Work & Ethical Behavior and Integrity [Click Here](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf#page=7) to know more
   utter_absentAfterSubmit:
   - text: If your calendar request (leave or WFH) approved, system will take one day to waive off absent marked and it will not be consider as LOP 
   utter_hr_generic_intent:
@@ -201,12 +207,22 @@ templates:
       payload: '/udemy_no'
 
   utter_User_access_credit_units:
-    - text: Which credit as you referring to?
+    - text: Which credit are you referring to?
       buttons:
       - title: LMS
         payload: '/credit_unit_lms'
       - title: PeP
         payload: '/credit_unit_pep'
+
+  utter_account_lock:
+  - text: Which account are you referring to?
+    buttons:
+    - title: Outlook
+      payload: '/outlook_issue'
+    - title: PeP
+      payload: 'outlook_issue'
+    - title: eLMS
+      payload: 'LMS lock'
 
   utter_udemy_yes:
   - text: Please drop an email to prou@prolifics.com asking login credentials with approval mail.
@@ -225,6 +241,14 @@ templates:
 
   utter_credit_unit_pep:
   - text: If it has been more than 15 days, please take a screenshot of course completion and send it to ProU. [Click Here](mailto:ProU@prolifics.com?subject=ThinkHR%20Courses) to send an email
+  
+  utter_outlook_issue:
+  - text: "Click on the button below to send an email [Send Mail](mailto:ithelpdesk@prolifics.com) Or please make a call +91 40 6777 1777 | Ext's RHJ-B12:1755, RHJ-20:1255, JB:1655"
+
+  utter_prolifics:
+  - text: We provide expert consulting, engineering and managed services for all our practice areas at any point you need them – making Prolifics a one-stop, digital transformation leader
+
+
 
 actions:
 - respond_lndFAQ
@@ -284,3 +308,7 @@ actions:
 - utter_User_access_credit_units
 - utter_credit_unit_lms
 - utter_credit_unit_pep
+- utter_core_values
+- utter_outlook_issue
+- utter_prolifics
+- utter_account_lock

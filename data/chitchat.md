@@ -540,7 +540,6 @@
 - go away
 - go fuck yourself
 - go to hell
-- how can you be such an idiot?
 - i hate you
 - i hate your dumb face
 - i think that you're a bullshit

@@ -9,8 +9,7 @@
 
 ## outlook
 * outlook_issue
- - utter_click_button
- - respond_raise_ticket
+ - utter_outlook_issue
  - utter_ask_more
 
 ## bye 
@@ -247,3 +246,18 @@
 ## utter_credit_unit_pep
 * credit_unit_pep
   - utter_credit_unit_pep
+
+## utter_core_values
+* core_values
+  - utter_core_values
+  - utter_ask_more
+
+
+## utter_prolifics
+* prolifics
+  - utter_prolifics
+  - utter_ask_more
+
+## utter_account_lock
+* account_lock
+  - utter_account_lock

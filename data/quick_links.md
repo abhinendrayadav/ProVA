@@ -31,3 +31,7 @@
 - adp credentials
 - payroll credentials
 - adp password
+
+## intent:quick_links/LnD
+- lnd link
+- lms link

@@ -18,6 +18,9 @@
 ## intent:outlook_issue
 - outlook not working
 - trouble with outlook
+- outlook error
+- outlook issue
+
 
 ## intent:thanks
 - thanks
@@ -56,6 +59,9 @@
 ## intent:company_mission
 - company mission
 - mission
+
+## intent:core_values
+- core values
 
 ## intent:violence_generic_intent
 - Violence in workplace
@@ -114,3 +120,12 @@
 - credit units
 - credit units not reflecting
 - credit units not displayed
+
+## intent:prolifics
+- prolifics
+- who is prolifics
+- what is prolifics
+
+## intent:account_lock
+- account lock
+- account locked

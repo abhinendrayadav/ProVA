@@ -68,6 +68,8 @@
 - outfit
 - t shirt
 - shoes
+- where can i refer dress code policy
+- dress code policy
 
 ## intent:gen_policy/hr_helpdesk
 - hrhelpdesk
