@@ -7,6 +7,8 @@
 - harrasment
 - harrass
 - abuse
+- harass
+- harassment
 - sexual harrassment
 - POSH
 - prevention of sexual harrassment

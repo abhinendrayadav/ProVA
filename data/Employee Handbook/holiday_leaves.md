@@ -13,6 +13,8 @@
 - leave procedure
 - apply leave
 - apply leaves
+- How do i apply leave?
+- how to apply leaves
 
 ## intent:holiday_leaves/lwp_lop
 - lwp
@@ -56,6 +58,7 @@
 ## intent:holiday_leaves/encashable_leaves 
 - encashable leaves
 - en chashable
+- How many encashable leaves do i get every year?
 
 ## intent:holiday_leaves/non_encashable_leaves 
 - non encashable leaves
