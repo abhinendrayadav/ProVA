@@ -534,3 +534,20 @@
 ## IBM_Partnerwrold/reimburement
 * IBM_Partnerwrold/reimburement
  - Step -1. Check out pep portal Prou Docs certification Training Reimbursement Guidelines policy document available on Pep portal home page. Step-2. For any further queries drop an email to enablement@prolifics.com.
+
+
+## chitchat/prova_capability
+* chitchat/prova_capability
+  - Provide details about HR, HRBP, L&D, and help you raise ticket to various helpdesk
+
+## chitchat/prolifics_handbook
+* chitchat/prolifics_handbook
+  - [Employee handbook](https://pep.prolifics.com/dms/hr/hrpolicies/employee_handbook_2.0.pdf)
+
+## chitchat/prolifics_helpdesk
+* chitchat/prolifics_helpdesk
+  - Number to be entered here
+
+## holiday_leaves/myleave
+* holiday_leaves/myleave
+  - 1 My Leave is credited on 1st April every year for existing employees and on date of joining for new joiners and has to be utilized within the same financial year. 

@@ -17,7 +17,6 @@
 - Who designed you?
 - Who developed and created you?
 - Who developed you?
-- Who fabricated you?
 - Who generated you?
 - Who is it that built you?
 - Who is responsible for making you?
@@ -172,19 +171,12 @@
 - is everything okay
 - nah, I'm good - how are you doing?
 - okay hi how are you?
-- wassup>
-- what about your day
-- what are you up to?
 - what's good
 - what's up
 - what's up prova
 - what's up?
-- whatchcha doing
-- whatchya upto ?
 - whats goin on
 - whats new
-- whatsapp
-- yow are you
 
 ## intent:chitchat/ask_isbot
 - Ar you a bot ?
@@ -335,16 +327,13 @@
 ## intent:chitchat/greet
 - hey
 - hello
-- hi
 - good morning
 - good evening
 - hey there
-- Bom dia
 - Bonjour
 - Good Morning
 - Good morning
 - Good mourning
-- Guten Morgen
 - HELLO
 - HEY
 - HEllo
@@ -355,8 +344,6 @@
 - Hellllooooooo
 - Hello
 - Hello Bot
-- Hello Rasa
-- Hello prova
 - Hello prova
 - Hello!
 - Hey
@@ -368,27 +355,17 @@
 - Hi prova
 - Hi prova!
 - Hi bot
-- Hi man
-- Hi rasa
 - Hi prova
 - Hi prova..
 - Hi there
-- Hi!
-- Hi'
-- Hi,
 - Hi, bot
 - Hieee
 - Hieeeeeeeeeeeee
 - Hola
-- I said, helllllloooooO!!!!
-- Well hello there ;)
 - What is up?
 - Whats up
 - Whats up my bot
 - Whats up?
-- ayyyy whaddup
-- bonjour
-- ey boss
 - good evening
 - good moring
 - good morning
@@ -456,9 +433,6 @@
 - hi there
 - hi there it's me
 - hi!
-- hi.........................................................
-- hi?
-- hieee
 - hii
 - hiihihi
 - hiii
@@ -615,4 +589,19 @@
 - thnks
 - thx
 - yes thanks
- 
+
+
+## intent:chitchat/prova_capability
+- what can you do
+- how can you help
+- what can you help me with
+
+## intent:chitchat/prolifics_handbook
+- handbook
+- prolifics handbook
+- employee handbook
+
+## intent:chitchat/prolifics_helpdesk
+- helpline
+- prolifics helpline
+- prolifics helpdesk

@@ -58,7 +58,6 @@ intents:
 - prolifics
 - account_lock
 
-
 templates:
   utter_raise_ticket_generic_intent:
   - text: Whom do you want to raise the ticket to
@@ -247,8 +246,7 @@ templates:
 
   utter_prolifics:
   - text: We provide expert consulting, engineering and managed services for all our practice areas at any point you need them – making Prolifics a one-stop, digital transformation leader
-
-
+  
 
 actions:
 - respond_lndFAQ
