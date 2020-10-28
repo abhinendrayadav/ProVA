@@ -129,8 +129,3 @@
 ## intent:account_lock
 - account lock
 - account locked
-
-## intent:prova_capability
-- what can you do
-- how can you help
-- what can you help me with

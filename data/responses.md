@@ -550,7 +550,7 @@
 
 ## chitchat/prolifics_helpdesk
 * chitchat/prolifics_helpdesk
-  - +91 4067 7710 21, +91 4039 9919 99
+  - Prolifics helpline numbers: +91 4067 7710 21, +91 4039 9919 99
 
 ## holiday_leaves/myleave
 * holiday_leaves/myleave

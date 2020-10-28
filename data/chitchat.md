@@ -593,11 +593,15 @@
 
 ## intent:chitchat/prova_capability
 - what can you do
+- what can you do?
 - how can you help
+- how can you help?
 - what can you help me with
+- what can you help me with?
 
 ## intent:chitchat/prolifics_handbook
 - handbook
+- handbook link
 - prolifics handbook
 - employee handbook
 

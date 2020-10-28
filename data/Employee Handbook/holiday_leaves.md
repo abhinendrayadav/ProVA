@@ -67,3 +67,5 @@
 ## intent:holiday_leaves/myleave
 - myleave
 - how many myleave do i have
+- my leave
+- 
