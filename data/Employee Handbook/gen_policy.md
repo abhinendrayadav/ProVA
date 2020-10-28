@@ -90,3 +90,9 @@
 - work from home
 - ooo
 - out of office
+
+## intent:gen_policy/update_work_window
+- update work window
+- update workwindow
+- update shift timings
+- change shift timings

@@ -66,6 +66,10 @@
 * gen_policy/wfh_ooo
   - “Work from home” and “Out of Office” should be planned, applied and approved in Leave Management System in advance, however employee should regularize his/her absence by obtaining manager’s approval in the Leave Management System within seven calendar days from absence start date; else the same will be treated as LOP in spite of leave balance
 
+## gen_policy/update_work_window
+* gen_policy/update_work_window
+  - If you want to request for work window change, please contact your supervisor, If you are the supervisor and looking to update the work window for your reportees, follow the below process: Login in to pep portal and goto Dashborad- > Team Details Section ->  Work Window Hyperlink -> edit-> Select from dropdown -> Change -> Save
+
 ## my courses
 * lndFAQ/my_courses
   - "Plase Login to eLMS >> timeline (right side top) https://prolifics.sumtotal.host
@@ -538,7 +542,7 @@
 
 ## chitchat/prova_capability
 * chitchat/prova_capability
-  - Provide details about HR, HRBP, L&D, and help you raise ticket to various helpdesk
+  - I can provide details about HR, HRBP, L&D, and help you raise ticket to various helpdesks
 
 ## chitchat/prolifics_handbook
 * chitchat/prolifics_handbook
@@ -546,8 +550,8 @@
 
 ## chitchat/prolifics_helpdesk
 * chitchat/prolifics_helpdesk
-  - Number to be entered here
+  - +91 4067 7710 21, +91 4039 9919 99
 
 ## holiday_leaves/myleave
 * holiday_leaves/myleave
-  - 1 My Leave is credited on 1st April every year for existing employees and on date of joining for new joiners and has to be utilized within the same financial year. 
+  - 1 My Leave is credited on 1st April every year for existing employees and on date of joining for new joiners and has to be utilized within the same financial year 
