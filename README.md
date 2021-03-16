@@ -1,5 +1,9 @@
 # Pro.*V.A*.
 
+ProVA – Prolifics Virtual Assistant sits on top of PEP portal that understands user’s natural language, sentiments and provides a one stop 
+shop for day to day scenarios like ticketing across all operations, concerns. This helps various helpdesks; with less tickets since major queries are 
+resolved by the assistant, employees now feel more confident about policies and know the correct hierarchy to follow for any further concerns. 
+
 ## Server Details
 ```
 Use your favorite SSH Client to access.
